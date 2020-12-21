@@ -90,7 +90,7 @@ The above code is used for scraping movie details of over 83,000 movies and stor
 The collected fields for a given movie were:  
 Title, Date, Run Time, Genre, Rating Score, Description, Director, Stars, VotesGross   
     
-![](img/out3.png)
+![](img/out3.PNG)
 
 
 
@@ -117,7 +117,7 @@ The above figure shows the comparison between 2 input movie names on basis of ge
 
 #### 3.Knowledge graph of 1000 movies. 
 
-![](img/utk10.png)
+![](img/utk10.PNG)
 
 The blue nodes near the edges of the graph represent genres, edges of same color represent same genre movies.   
 
@@ -131,7 +131,7 @@ b. There is heterogeneity among  movies from different clusters. (Represented by
 
 Zoomed pic of a cluster.
 
-  ![](img/utk4.png)
+  ![](img/utk4.PNG)
 
 ​     Here you can see the movies which belong to different colors. Each color represents a color.   
 
@@ -149,11 +149,11 @@ director, writer, year, other user reviews, etc.
 
 **Example** : For movie - The Avengers
 
-![](img/utk6.png)
+![](img/utk6.PNG)
 
 **Example :** For movie mission impossible
 
- ![](img/utk5.png)
+ ![](img/utk5.PNG)
 
  
 
@@ -168,7 +168,7 @@ Entertainment_domain_spell_correction.py is an autocorrect program file to corre
 
 **Example** For query "Robept Downez" and another query "emmg watsoz"
 
-![](img/utklast.png)
+![](img/utklast.PNG)
 
 **Implementation of spell checker**
 

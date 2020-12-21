@@ -1,0 +1,503 @@
+Position,Const,Created,Modified,Description,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt0068646,2015-05-31,2015-05-31,,The Godfather,https://www.imdb.com/title/tt0068646/,movie,9.2,175,1972,"Crime, Drama",1601130,1972-03-14,Francis Ford Coppola
+2,tt0111161,2015-05-31,2015-05-31,,The Shawshank Redemption,https://www.imdb.com/title/tt0111161/,movie,9.3,142,1994,Drama,2318636,1994-09-10,Frank Darabont
+3,tt0047478,2015-05-31,2015-05-31,,Shichinin no samurai,https://www.imdb.com/title/tt0047478/,movie,8.6,207,1954,"Action, Adventure, Drama",313046,1954-04-26,Akira Kurosawa
+4,tt0317248,2015-05-31,2015-05-31,,Cidade de Deus,https://www.imdb.com/title/tt0317248/,movie,8.6,130,2002,"Crime, Drama",694312,2002-05-18,"Kátia Lund, Fernando Meirelles"
+5,tt0071562,2015-05-31,2015-05-31,,The Godfather: Part II,https://www.imdb.com/title/tt0071562/,movie,9.0,202,1974,"Crime, Drama",1118312,1974-12-12,Francis Ford Coppola
+6,tt0110912,2015-05-31,2015-05-31,,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",1808910,1994-05-21,Quentin Tarantino
+7,tt0050083,2015-05-31,2015-05-31,,12 Angry Men,https://www.imdb.com/title/tt0050083/,movie,9.0,96,1957,"Crime, Drama",682252,1957-04-10,Sidney Lumet
+8,tt0073486,2015-05-31,2015-05-31,,One Flew Over the Cuckoo's Nest,https://www.imdb.com/title/tt0073486/,movie,8.7,133,1975,Drama,910068,1975-11-19,Milos Forman
+9,tt0167260,2015-05-31,2015-05-31,,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,8.9,201,2003,"Action, Adventure, Drama, Fantasy",1627656,2003-12-01,Peter Jackson
+10,tt0108052,2015-05-31,2015-05-31,,Schindler's List,https://www.imdb.com/title/tt0108052/,movie,8.9,195,1993,"Biography, Drama, History",1202492,1993-11-30,Steven Spielberg
+11,tt0137523,2015-05-31,2015-05-31,,Fight Club,https://www.imdb.com/title/tt0137523/,movie,8.8,139,1999,Drama,1836734,1999-09-10,David Fincher
+12,tt0114814,2015-05-31,2015-05-31,,The Usual Suspects,https://www.imdb.com/title/tt0114814/,movie,8.5,106,1995,"Crime, Mystery, Thriller",983029,1995-01-25,Bryan Singer
+13,tt0099685,2015-05-31,2015-05-31,,Goodfellas,https://www.imdb.com/title/tt0099685/,movie,8.7,146,1990,"Biography, Crime, Drama",1009546,1990-09-09,Martin Scorsese
+14,tt0064116,2015-05-31,2015-05-31,,C'era una volta il West,https://www.imdb.com/title/tt0064116/,movie,8.5,165,1968,Western,300230,1968-12-20,Sergio Leone
+15,tt0043014,2015-05-31,2015-05-31,,Sunset Blvd.,https://www.imdb.com/title/tt0043014/,movie,8.4,110,1950,"Drama, Film-Noir",199745,1950-08-10,Billy Wilder
+16,tt0057012,2015-05-31,2015-05-31,,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,https://www.imdb.com/title/tt0057012/,movie,8.4,95,1964,Comedy,447060,1964-01-29,Stanley Kubrick
+17,tt0022100,2015-05-31,2015-05-31,,M - Eine Stadt sucht einen Mörder,https://www.imdb.com/title/tt0022100/,movie,8.3,117,1931,"Crime, Mystery, Thriller",142125,1931-05-11,Fritz Lang
+18,tt0060196,2015-05-31,2015-05-31,,"Il buono, il brutto, il cattivo",https://www.imdb.com/title/tt0060196/,movie,8.8,161,1966,Western,682601,1966-12-23,Sergio Leone
+19,tt0211915,2015-05-31,2015-05-31,,Le fabuleux destin d'Amélie Poulain,https://www.imdb.com/title/tt0211915/,movie,8.3,122,2001,"Comedy, Romance",698717,2001-04-25,Jean-Pierre Jeunet
+20,tt0209144,2015-05-31,2015-05-31,,Memento,https://www.imdb.com/title/tt0209144/,movie,8.4,113,2000,"Mystery, Thriller",1116146,2000-09-05,Christopher Nolan
+21,tt0047396,2015-05-31,2015-05-31,,Rear Window,https://www.imdb.com/title/tt0047396/,movie,8.4,112,1954,"Mystery, Thriller",440116,1954-08-04,Alfred Hitchcock
+22,tt0066921,2015-05-31,2015-05-31,,A Clockwork Orange,https://www.imdb.com/title/tt0066921/,movie,8.3,136,1971,"Crime, Drama, Sci-Fi",751966,1971-12-19,Stanley Kubrick
+23,tt0033467,2015-05-31,2015-05-31,,Citizen Kane,https://www.imdb.com/title/tt0033467/,movie,8.3,119,1941,"Drama, Mystery",398428,1941-05-01,Orson Welles
+24,tt0110413,2015-05-31,2015-05-31,,Léon,https://www.imdb.com/title/tt0110413/,movie,8.5,110,1994,"Action, Crime, Drama, Thriller",1025118,1994-09-14,Luc Besson
+25,tt0021749,2015-05-31,2015-05-31,,City Lights,https://www.imdb.com/title/tt0021749/,movie,8.5,87,1931,"Comedy, Drama, Romance",166063,1931-01-30,Charles Chaplin
+26,tt0364569,2015-05-31,2015-05-31,,Oldeuboi,https://www.imdb.com/title/tt0364569/,movie,8.4,120,2003,"Action, Drama, Mystery, Thriller",510188,2003-11-21,Chan-wook Park
+27,tt0133093,2015-05-31,2015-05-31,,The Matrix,https://www.imdb.com/title/tt0133093/,movie,8.7,136,1999,"Action, Sci-Fi",1659212,1999-03-24,"Lilly Wachowski, Lana Wachowski"
+28,tt0041959,2015-05-31,2015-05-31,,The Third Man,https://www.imdb.com/title/tt0041959/,movie,8.1,104,1949,"Film-Noir, Mystery, Thriller",157529,1949-09-01,Carol Reed
+29,tt0095765,2015-05-31,2015-05-31,,Nuovo Cinema Paradiso,https://www.imdb.com/title/tt0095765/,movie,8.5,155,1988,Drama,227942,1988-09-29,Giuseppe Tornatore
+30,tt0075314,2015-05-31,2015-05-31,,Taxi Driver,https://www.imdb.com/title/tt0075314/,movie,8.3,114,1976,"Crime, Drama",716967,1976-02-08,Martin Scorsese
+31,tt0468569,2015-05-31,2015-05-31,,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9.0,152,2008,"Action, Crime, Drama, Thriller",2280826,2008-07-14,Christopher Nolan
+32,tt0078788,2015-05-31,2015-05-31,,Apocalypse Now,https://www.imdb.com/title/tt0078788/,movie,8.4,147,1979,"Drama, Mystery, War",601109,1979-05-19,Francis Ford Coppola
+33,tt0053125,2015-05-31,2015-05-31,,North by Northwest,https://www.imdb.com/title/tt0053125/,movie,8.3,136,1959,"Adventure, Mystery, Thriller",296542,1959-07-01,Alfred Hitchcock
+34,tt0245429,2015-05-31,2015-05-31,,Sen to Chihiro no kamikakushi,https://www.imdb.com/title/tt0245429/,movie,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",642048,2001-07-20,Hayao Miyazaki
+35,tt0050825,2015-05-31,2015-05-31,,Paths of Glory,https://www.imdb.com/title/tt0050825/,movie,8.4,88,1957,"Drama, War",176296,1957-10-25,Stanley Kubrick
+36,tt0120586,2015-05-31,2015-05-31,,American History X,https://www.imdb.com/title/tt0120586/,movie,8.5,119,1998,Drama,1027132,1998-07-01,Tony Kaye
+37,tt0032553,2015-05-31,2015-05-31,,The Great Dictator,https://www.imdb.com/title/tt0032553/,movie,8.4,125,1940,"Comedy, Drama, War",201188,1940-10-15,Charles Chaplin
+38,tt0055630,2015-05-31,2015-05-31,,Yôjinbô,https://www.imdb.com/title/tt0055630/,movie,8.2,110,1961,"Action, Drama, Thriller",109975,1961-04-25,Akira Kurosawa
+39,tt0848228,2015-05-31,2015-05-31,,The Avengers,https://www.imdb.com/title/tt0848228/,movie,8.0,143,2012,"Action, Adventure, Sci-Fi",1252927,2012-04-11,Joss Whedon
+40,tt0180093,2015-05-31,2015-05-31,,Requiem for a Dream,https://www.imdb.com/title/tt0180093/,movie,8.3,102,2000,Drama,760292,2000-05-14,Darren Aronofsky
+41,tt0050976,2015-05-31,2015-05-31,,Det sjunde inseglet,https://www.imdb.com/title/tt0050976/,movie,8.2,96,1957,"Drama, Fantasy",162881,1957-02-16,Ingmar Bergman
+42,tt0027977,2015-05-31,2015-05-31,,Modern Times,https://www.imdb.com/title/tt0027977/,movie,8.5,87,1936,"Comedy, Drama, Family, Romance",215552,1936-02-05,Charles Chaplin
+43,tt0114369,2015-05-31,2015-05-31,,Se7en,https://www.imdb.com/title/tt0114369/,movie,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1429022,1995-09-15,David Fincher
+44,tt0071315,2015-05-31,2015-05-31,,Chinatown,https://www.imdb.com/title/tt0071315/,movie,8.1,130,1974,"Drama, Mystery, Thriller",291599,1974-06-20,Roman Polanski
+45,tt0044741,2015-05-31,2015-05-31,,Ikiru,https://www.imdb.com/title/tt0044741/,movie,8.3,143,1952,Drama,67503,1952-10-09,Akira Kurosawa
+46,tt0040522,2015-05-31,2015-05-31,,Ladri di biciclette,https://www.imdb.com/title/tt0040522/,movie,8.3,89,1948,Drama,144746,1948-11-21,Vittorio De Sica
+47,tt0338013,2015-05-31,2015-05-31,,Eternal Sunshine of the Spotless Mind,https://www.imdb.com/title/tt0338013/,movie,8.3,108,2004,"Drama, Romance, Sci-Fi",904174,2004-03-09,Michel Gondry
+48,tt0052357,2015-05-31,2015-05-31,,Vertigo,https://www.imdb.com/title/tt0052357/,movie,8.3,128,1958,"Mystery, Romance, Thriller",360772,1958-05-09,Alfred Hitchcock
+49,tt0056172,2015-05-31,2015-05-31,,Lawrence of Arabia,https://www.imdb.com/title/tt0056172/,movie,8.3,228,1962,"Adventure, Biography, Drama, History, War",265713,1962-12-10,David Lean
+50,tt0082096,2015-05-31,2015-05-31,,Das Boot,https://www.imdb.com/title/tt0082096/,movie,8.3,149,1981,"Adventure, Drama, Thriller, War",229978,1981-09-17,Wolfgang Petersen
+51,tt0118799,2015-05-31,2015-05-31,,La vita è bella,https://www.imdb.com/title/tt0118799/,movie,8.6,116,1997,"Comedy, Drama, Romance, War",616973,1997-12-20,Roberto Benigni
+52,tt0095327,2015-05-31,2015-05-31,,Hotaru no haka,https://www.imdb.com/title/tt0095327/,movie,8.5,89,1988,"Animation, Drama, War",231755,1988-04-16,Isao Takahata
+53,tt0054215,2015-05-31,2015-05-31,,Psycho,https://www.imdb.com/title/tt0054215/,movie,8.5,109,1960,"Horror, Mystery, Thriller",598902,1960-06-16,Alfred Hitchcock
+54,tt0050986,2015-05-31,2015-05-31,,Smultronstället,https://www.imdb.com/title/tt0050986/,movie,8.2,91,1957,"Drama, Romance",95056,1957-12-26,Ingmar Bergman
+55,tt0081398,2015-05-31,2015-05-31,,Raging Bull,https://www.imdb.com/title/tt0081398/,movie,8.2,129,1980,"Biography, Drama, Sport",319073,1980-11-13,Martin Scorsese
+56,tt0105236,2015-05-31,2015-05-31,,Reservoir Dogs,https://www.imdb.com/title/tt0105236/,movie,8.3,99,1992,"Crime, Drama, Thriller",910439,1992-01-21,Quentin Tarantino
+57,tt0089881,2015-05-31,2015-05-31,,Ran,https://www.imdb.com/title/tt0089881/,movie,8.2,162,1985,"Action, Drama, War",111333,1985-05-25,Akira Kurosawa
+58,tt0076759,2015-05-31,2015-05-31,,Star Wars,https://www.imdb.com/title/tt0076759/,movie,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1220184,1977-05-25,George Lucas
+59,tt0120737,2015-05-31,2015-05-31,,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,movie,8.8,178,2001,"Action, Adventure, Drama, Fantasy",1643993,2001-12-10,Peter Jackson
+60,tt0017136,2015-05-31,2015-05-31,,Metropolis,https://www.imdb.com/title/tt0017136/,movie,8.3,153,1927,"Drama, Sci-Fi",158745,1927-01-10,Fritz Lang
+61,tt0080684,2015-05-31,2015-05-31,,Star Wars: Episode V - The Empire Strikes Back,https://www.imdb.com/title/tt0080684/,movie,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1148259,1980-05-17,Irvin Kershner
+62,tt0071853,2015-05-31,2015-05-31,,Monty Python and the Holy Grail,https://www.imdb.com/title/tt0071853/,movie,8.2,91,1975,"Adventure, Comedy, Fantasy",497649,1975-03-14,"Terry Jones, Terry Gilliam"
+63,tt0245712,2015-05-31,2015-05-31,,Amores perros,https://www.imdb.com/title/tt0245712/,movie,8.1,154,2000,"Drama, Thriller",222056,2000-05-14,Alejandro G. Iñárritu
+64,tt0253474,2015-05-31,2015-05-31,,The Pianist,https://www.imdb.com/title/tt0253474/,movie,8.5,150,2002,"Biography, Drama, Music, War",721537,2002-05-24,Roman Polanski
+65,tt0246578,2015-05-31,2015-05-31,,Donnie Darko,https://www.imdb.com/title/tt0246578/,movie,8.0,113,2001,"Drama, Mystery, Sci-Fi, Thriller",735638,2001-01-19,Richard Kelly
+66,tt0087843,2015-05-31,2015-05-31,,Once Upon a Time in America,https://www.imdb.com/title/tt0087843/,movie,8.4,229,1984,"Crime, Drama",308019,1984-05-20,Sergio Leone
+67,tt0169547,2015-05-31,2015-05-31,,American Beauty,https://www.imdb.com/title/tt0169547/,movie,8.3,122,1999,Drama,1062031,1999-09-08,Sam Mendes
+68,tt0363163,2015-05-31,2015-05-31,,Der Untergang,https://www.imdb.com/title/tt0363163/,movie,8.2,156,2004,"Biography, Drama, History, War",328976,2004-09-08,Oliver Hirschbiegel
+69,tt1853728,2015-05-31,2015-05-31,,Django Unchained,https://www.imdb.com/title/tt1853728/,movie,8.4,165,2012,"Drama, Western",1342340,2012-12-11,Quentin Tarantino
+70,tt0119488,2015-05-31,2015-05-31,,L.A. Confidential,https://www.imdb.com/title/tt0119488/,movie,8.2,138,1997,"Crime, Drama, Mystery, Thriller",528051,1997-05-14,Curtis Hanson
+71,tt0083658,2015-05-31,2015-05-31,,Blade Runner,https://www.imdb.com/title/tt0083658/,movie,8.1,117,1982,"Action, Sci-Fi, Thriller",688053,1982-06-25,Ridley Scott
+72,tt0119698,2015-05-31,2015-05-31,,Mononoke-hime,https://www.imdb.com/title/tt0119698/,movie,8.4,134,1997,"Animation, Adventure, Fantasy",338727,1997-07-12,Hayao Miyazaki
+73,tt0081505,2015-05-31,2015-05-31,,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",889330,1980-05-23,Stanley Kubrick
+74,tt1375666,2015-05-31,2015-05-31,,Inception,https://www.imdb.com/title/tt1375666/,movie,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2044044,2010-07-08,Christopher Nolan
+75,tt0042876,2015-05-31,2015-05-31,,Rashômon,https://www.imdb.com/title/tt0042876/,movie,8.2,88,1950,"Crime, Drama, Mystery",151097,1950-08-26,Akira Kurosawa
+76,tt0096283,2015-05-31,2015-05-31,,Tonari no Totoro,https://www.imdb.com/title/tt0096283/,movie,8.2,86,1988,"Animation, Family, Fantasy",286493,1988-04-16,Hayao Miyazaki
+77,tt0117951,2015-05-31,2015-05-31,,Trainspotting,https://www.imdb.com/title/tt0117951/,movie,8.1,93,1996,Drama,630423,1996-02-23,Danny Boyle
+78,tt0040897,2015-05-31,2015-05-31,,The Treasure of the Sierra Madre,https://www.imdb.com/title/tt0040897/,movie,8.2,126,1948,"Adventure, Drama, Western",113367,1948-01-14,John Huston
+79,tt2275946,2015-05-31,2015-05-31,,Redirected,https://www.imdb.com/title/tt2275946/,movie,6.6,99,2014,"Action, Comedy, Crime, Thriller",33316,2014-01-10,Emilis Velyvis
+80,tt0034583,2015-05-31,2015-05-31,,Casablanca,https://www.imdb.com/title/tt0034583/,movie,8.5,102,1942,"Drama, Romance, War",517490,1942-11-26,Michael Curtiz
+81,tt0042192,2015-05-31,2015-05-31,,All About Eve,https://www.imdb.com/title/tt0042192/,movie,8.2,138,1950,Drama,119687,1950-10-13,Joseph L. Mankiewicz
+82,tt0167261,2015-05-31,2015-05-31,,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.7,179,2002,"Action, Adventure, Drama, Fantasy",1471462,2002-12-05,Peter Jackson
+83,tt0056058,2015-05-31,2015-05-31,,Seppuku,https://www.imdb.com/title/tt0056058/,movie,8.6,133,1962,"Action, Drama, Mystery",40505,1962-09-16,Masaki Kobayashi
+84,tt0118715,2015-05-31,2015-05-31,,The Big Lebowski,https://www.imdb.com/title/tt0118715/,movie,8.1,117,1998,"Comedy, Crime, Sport",726313,1998-01-18,"Ethan Coen, Joel Coen"
+85,tt0053604,2015-05-31,2015-05-31,,The Apartment,https://www.imdb.com/title/tt0053604/,movie,8.3,125,1960,"Comedy, Drama, Romance",162533,1960-06-15,Billy Wilder
+86,tt1832382,2015-05-31,2015-05-31,,Jodaeiye Nader az Simin,https://www.imdb.com/title/tt1832382/,movie,8.3,123,2011,Drama,217811,2011-02-01,Asghar Farhadi
+87,tt0052311,2015-05-31,2015-05-31,,Touch of Evil,https://www.imdb.com/title/tt0052311/,movie,8.0,95,1958,"Crime, Drama, Film-Noir, Thriller",97911,1958-03-30,Orson Welles
+88,tt0093191,2015-05-31,2015-05-31,,Der Himmel über Berlin,https://www.imdb.com/title/tt0093191/,movie,8.0,128,1987,"Drama, Fantasy, Romance",64094,1987-05-17,Wim Wenders
+89,tt0102926,2015-05-31,2015-05-31,,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1257540,1991-01-30,Jonathan Demme
+90,tt0053291,2015-05-31,2015-05-31,,Some Like It Hot,https://www.imdb.com/title/tt0053291/,movie,8.2,121,1959,"Comedy, Music, Romance",241623,1959-03-19,Billy Wilder
+91,tt0047296,2015-05-31,2015-05-31,,On the Waterfront,https://www.imdb.com/title/tt0047296/,movie,8.1,108,1954,"Crime, Drama, Thriller",140869,1954-06-22,Elia Kazan
+92,tt0056801,2015-05-31,2015-05-31,,8½,https://www.imdb.com/title/tt0056801/,movie,8.0,138,1963,Drama,108038,1963-01-02,Federico Fellini
+93,tt0154420,2015-05-31,2015-05-31,,Festen,https://www.imdb.com/title/tt0154420/,movie,8.0,105,1998,Drama,77446,1998-05-31,Thomas Vinterberg
+94,tt0086879,2015-05-31,2015-05-31,,Amadeus,https://www.imdb.com/title/tt0086879/,movie,8.3,160,1984,"Biography, Drama, History, Music",366167,1984-09-06,Milos Forman
+95,tt0401792,2015-05-31,2015-05-31,,Sin City,https://www.imdb.com/title/tt0401792/,movie,8.0,124,2005,"Crime, Thriller",736609,2005-03-28,"Frank Miller, Quentin Tarantino, Robert Rodriguez"
+96,tt0093058,2015-05-31,2015-05-31,,Full Metal Jacket,https://www.imdb.com/title/tt0093058/,movie,8.3,116,1987,"Drama, War",669315,1987-06-17,Stanley Kubrick
+97,tt0091251,2015-05-31,2015-05-31,,Idi i smotri,https://www.imdb.com/title/tt0091251/,movie,8.3,142,1985,"Drama, Thriller, War",57506,1985-07-09,Elem Klimov
+98,tt0208092,2015-05-31,2015-05-31,,Snatch,https://www.imdb.com/title/tt0208092/,movie,8.3,104,2000,"Comedy, Crime",775991,2000-08-23,Guy Ritchie
+99,tt0083922,2015-05-31,2015-05-31,,Fanny och Alexander,https://www.imdb.com/title/tt0083922/,movie,8.1,188,1982,Drama,57065,1982-12-17,Ingmar Bergman
+100,tt0082971,2015-05-31,2015-05-31,,Raiders of the Lost Ark,https://www.imdb.com/title/tt0082971/,movie,8.4,115,1981,"Action, Adventure",877167,1981-06-12,Steven Spielberg
+101,tt0114787,2015-05-31,2015-05-31,,Underground,https://www.imdb.com/title/tt0114787/,movie,8.1,170,1995,"Comedy, Drama, War",54838,1995-04-01,Emir Kusturica
+102,tt0405094,2015-05-31,2015-05-31,,Das Leben der Anderen,https://www.imdb.com/title/tt0405094/,movie,8.4,137,2006,"Drama, Mystery, Thriller",355441,2006-03-15,Florian Henckel von Donnersmarck
+103,tt0074958,2015-05-31,2015-05-31,,Network,https://www.imdb.com/title/tt0074958/,movie,8.1,121,1976,Drama,143924,1976-11-14,Sidney Lumet
+104,tt0993846,2015-05-31,2015-05-31,,The Wolf of Wall Street,https://www.imdb.com/title/tt0993846/,movie,8.2,180,2013,"Biography, Crime, Drama",1167373,2013-12-09,Martin Scorsese
+105,tt0266697,2015-05-31,2015-05-31,,Kill Bill: Vol. 1,https://www.imdb.com/title/tt0266697/,movie,8.1,111,2003,"Action, Crime, Thriller",991927,2003-09-29,Quentin Tarantino
+106,tt0047528,2015-05-31,2015-05-31,,La strada,https://www.imdb.com/title/tt0047528/,movie,8.0,108,1954,Drama,57879,1954-09-06,Federico Fellini
+107,tt1345836,2015-05-31,2015-05-31,,The Dark Knight Rises,https://www.imdb.com/title/tt1345836/,movie,8.4,164,2012,"Action, Adventure",1503093,2012-07-16,Christopher Nolan
+108,tt0111495,2015-05-31,2015-05-31,,Trois couleurs: Rouge,https://www.imdb.com/title/tt0111495/,movie,8.1,99,1994,"Drama, Mystery, Romance",89602,1994-05-16,Krzysztof Kieslowski
+109,tt0046438,2015-05-31,2015-05-31,,Tôkyô monogatari,https://www.imdb.com/title/tt0046438/,movie,8.2,136,1953,Drama,52311,1953-11-03,Yasujirô Ozu
+110,tt0077416,2015-05-31,2015-05-31,,The Deer Hunter,https://www.imdb.com/title/tt0077416/,movie,8.1,183,1978,"Drama, War",308882,1978-12-08,Michael Cimino
+111,tt0050613,2015-05-31,2015-05-31,,Kumonosu-jô,https://www.imdb.com/title/tt0050613/,movie,8.1,110,1957,"Drama, History",46113,1957-01-15,Akira Kurosawa
+112,tt0062229,2015-05-31,2015-05-31,,Le samouraï,https://www.imdb.com/title/tt0062229/,movie,8.1,105,1967,"Crime, Drama, Mystery, Thriller",44938,1967-10-25,Jean-Pierre Melville
+113,tt0070735,2015-05-31,2015-05-31,,The Sting,https://www.imdb.com/title/tt0070735/,movie,8.3,129,1973,"Comedy, Crime, Drama",239620,1973-12-25,George Roy Hill
+114,tt0088846,2015-05-31,2015-05-31,,Brazil,https://www.imdb.com/title/tt0088846/,movie,7.9,132,1985,"Drama, Sci-Fi",186484,1985-02-20,Terry Gilliam
+115,tt0019254,2015-05-31,2015-05-31,,La passion de Jeanne d'Arc,https://www.imdb.com/title/tt0019254/,movie,8.1,110,1928,"Biography, Drama, History",47036,1928-04-21,Carl Theodor Dreyer
+116,tt0050783,2015-05-31,2015-05-31,,Le notti di Cabiria,https://www.imdb.com/title/tt0050783/,movie,8.1,110,1957,Drama,42534,1957-05-11,Federico Fellini
+117,tt0015864,2015-05-31,2015-05-31,,The Gold Rush,https://www.imdb.com/title/tt0015864/,movie,8.2,95,1925,"Adventure, Comedy, Drama, Western",99845,1925-06-26,Charles Chaplin
+118,tt0120735,2015-05-31,2015-05-31,,"Lock, Stock and Two Smoking Barrels",https://www.imdb.com/title/tt0120735/,movie,8.2,107,1998,"Action, Comedy, Crime",531271,1998-08-23,Guy Ritchie
+119,tt0080678,2015-05-31,2015-05-31,,The Elephant Man,https://www.imdb.com/title/tt0080678/,movie,8.1,124,1980,"Biography, Drama",218097,1980-10-02,David Lynch
+120,tt0046911,2015-05-31,2015-05-31,,Les diaboliques,https://www.imdb.com/title/tt0046911/,movie,8.0,117,1955,"Crime, Drama, Horror, Mystery, Thriller",61175,1955-01-29,Henri-Georges Clouzot
+121,tt0105695,2015-05-31,2015-05-31,,Unforgiven,https://www.imdb.com/title/tt0105695/,movie,8.2,130,1992,"Drama, Western",372808,1992-08-03,Clint Eastwood
+122,tt0053779,2015-05-31,2015-05-31,,La Dolce Vita,https://www.imdb.com/title/tt0053779/,movie,8.0,174,1960,"Comedy, Drama",65906,1960-02-03,Federico Fellini
+123,tt0038650,2015-05-31,2015-05-31,,It's a Wonderful Life,https://www.imdb.com/title/tt0038650/,movie,8.6,130,1946,"Drama, Family, Fantasy",395235,1946-12-20,Frank Capra
+124,tt0044079,2015-05-31,2015-05-31,,Strangers on a Train,https://www.imdb.com/title/tt0044079/,movie,7.9,101,1951,"Crime, Film-Noir, Thriller",122598,1951-06-27,Alfred Hitchcock
+125,tt0036775,2015-05-31,2015-05-31,,Double Indemnity,https://www.imdb.com/title/tt0036775/,movie,8.3,107,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",142251,1944-04-24,Billy Wilder
+126,tt0050212,2015-05-31,2015-05-31,,The Bridge on the River Kwai,https://www.imdb.com/title/tt0050212/,movie,8.1,161,1957,"Adventure, Drama, War",201829,1957-10-02,David Lean
+127,tt0048424,2015-05-31,2015-05-31,,The Night of the Hunter,https://www.imdb.com/title/tt0048424/,movie,8.0,92,1955,"Crime, Drama, Film-Noir, Thriller",81296,1955-07-26,Charles Laughton
+128,tt0114746,2015-05-31,2015-05-31,,Twelve Monkeys,https://www.imdb.com/title/tt0114746/,movie,8.0,129,1995,"Mystery, Sci-Fi, Thriller",574126,1995-12-08,Terry Gilliam
+129,tt0060107,2015-05-31,2015-05-31,,Andrey Rublev,https://www.imdb.com/title/tt0060107/,movie,8.1,205,1966,"Biography, Drama, History",46217,1966-12-16,Andrei Tarkovsky
+130,tt0109424,2015-05-31,2015-05-31,,Chung Hing sam lam,https://www.imdb.com/title/tt0109424/,movie,8.1,102,1994,"Comedy, Crime, Drama, Mystery, Romance",61899,1994-07-14,Kar-Wai Wong
+131,tt0033870,2015-05-31,2015-05-31,,The Maltese Falcon,https://www.imdb.com/title/tt0033870/,movie,8.0,100,1941,"Film-Noir, Mystery",148045,1941-10-03,John Huston
+132,tt0423866,2015-05-31,2015-05-31,,Bin-jip,https://www.imdb.com/title/tt0423866/,movie,8.0,88,2004,"Crime, Drama, Romance",49974,2004-09-07,Ki-duk Kim
+133,tt0185125,2015-05-31,2015-05-31,,Todo sobre mi madre,https://www.imdb.com/title/tt0185125/,movie,7.8,101,1999,Drama,88435,1999-04-08,Pedro Almodóvar
+134,tt0032976,2015-05-31,2015-05-31,,Rebecca,https://www.imdb.com/title/tt0032976/,movie,8.1,130,1940,"Drama, Mystery, Romance, Thriller",122770,1940-03-21,Alfred Hitchcock
+135,tt0407887,2015-05-31,2015-05-31,,The Departed,https://www.imdb.com/title/tt0407887/,movie,8.5,151,2006,"Crime, Drama, Thriller",1178096,2006-09-26,Martin Scorsese
+136,tt0435761,2015-05-31,2015-05-31,,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",750546,2010-06-12,Lee Unkrich
+137,tt0051201,2015-05-31,2015-05-31,,Witness for the Prosecution,https://www.imdb.com/title/tt0051201/,movie,8.4,116,1957,"Crime, Drama, Mystery, Thriller",107545,1957-12-17,Billy Wilder
+138,tt0061184,2015-05-31,2015-05-31,,Who's Afraid of Virginia Woolf?,https://www.imdb.com/title/tt0061184/,movie,8.0,131,1966,Drama,68587,1966-06-21,Mike Nichols
+139,tt0075686,2015-05-31,2015-05-31,,Annie Hall,https://www.imdb.com/title/tt0075686/,movie,8.0,93,1977,"Comedy, Romance",250583,1977-03-27,Woody Allen
+140,tt0012349,2015-05-31,2015-05-31,,The Kid,https://www.imdb.com/title/tt0012349/,movie,8.3,68,1921,"Comedy, Drama, Family",111883,1921-01-16,Charles Chaplin
+141,tt0072684,2015-05-31,2015-05-31,,Barry Lyndon,https://www.imdb.com/title/tt0072684/,movie,8.1,185,1975,"Adventure, Drama, History, War",148139,1975-12-11,Stanley Kubrick
+142,tt0068182,2015-05-31,2015-05-31,,"Aguirre, der Zorn Gottes",https://www.imdb.com/title/tt0068182/,movie,7.9,95,1972,"Action, Adventure, Biography, Drama, History",51928,1972-12-29,Werner Herzog
+143,tt0072890,2015-05-31,2015-05-31,,Dog Day Afternoon,https://www.imdb.com/title/tt0072890/,movie,8.0,125,1975,"Biography, Crime, Drama, Thriller",233960,1975-09-19,Sidney Lumet
+144,tt0369702,2015-05-31,2015-05-31,,Mar adentro,https://www.imdb.com/title/tt0369702/,movie,8.0,126,2004,"Biography, Drama",77120,2004-09-02,Alejandro Amenábar
+145,tt0031679,2015-05-31,2015-05-31,,Mr. Smith Goes to Washington,https://www.imdb.com/title/tt0031679/,movie,8.1,129,1939,"Comedy, Drama",106077,1939-10-17,Frank Capra
+146,tt0062622,2015-05-31,2015-05-31,,2001: A Space Odyssey,https://www.imdb.com/title/tt0062622/,movie,8.3,149,1968,"Adventure, Sci-Fi",598132,1968-04-02,Stanley Kubrick
+147,tt0061512,2015-05-31,2015-05-31,,Cool Hand Luke,https://www.imdb.com/title/tt0061512/,movie,8.1,127,1967,"Crime, Drama",160450,1967-11-01,Stuart Rosenberg
+148,tt0038355,2015-05-31,2015-05-31,,The Big Sleep,https://www.imdb.com/title/tt0038355/,movie,7.9,114,1946,"Crime, Film-Noir, Mystery, Thriller",78353,1946-08-22,Howard Hawks
+149,tt0910970,2015-05-31,2015-05-31,,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",989835,2008-06-21,Andrew Stanton
+150,tt0079470,2015-05-31,2015-05-31,,Life of Brian,https://www.imdb.com/title/tt0079470/,movie,8.1,94,1979,Comedy,364345,1979-08-17,Terry Jones
+151,tt0087544,2015-05-31,2015-05-31,,Kaze no tani no Naushika,https://www.imdb.com/title/tt0087544/,movie,8.1,117,1984,"Animation, Adventure, Fantasy, Sci-Fi",148824,1984-03-11,Hayao Miyazaki
+152,tt0395169,2015-05-31,2015-05-31,,Hotel Rwanda,https://www.imdb.com/title/tt0395169/,movie,8.1,121,2004,"Biography, Drama, History, War",332433,2004-09-11,Terry George
+153,tt0056592,2015-05-31,2015-05-31,,To Kill a Mockingbird,https://www.imdb.com/title/tt0056592/,movie,8.2,129,1962,"Crime, Drama",292046,1962-12-20,Robert Mulligan
+154,tt0038787,2015-05-31,2015-05-31,,Notorious,https://www.imdb.com/title/tt0038787/,movie,7.9,102,1946,"Drama, Film-Noir, Romance, Thriller",91658,1946-08-15,Alfred Hitchcock
+155,tt0100150,2015-05-31,2015-05-31,,Miller's Crossing,https://www.imdb.com/title/tt0100150/,movie,7.7,115,1990,"Crime, Drama, Thriller",125118,1990-09-21,"Ethan Coen, Joel Coen"
+156,tt0457430,2015-05-31,2015-05-31,,El laberinto del fauno,https://www.imdb.com/title/tt0457430/,movie,8.2,118,2006,"Drama, Fantasy, War",614420,2006-05-27,Guillermo del Toro
+157,tt0084787,2015-05-31,2015-05-31,,The Thing,https://www.imdb.com/title/tt0084787/,movie,8.1,109,1982,"Horror, Mystery, Sci-Fi",368113,1982-06-25,John Carpenter
+158,tt0040746,2015-05-31,2015-05-31,,Rope,https://www.imdb.com/title/tt0040746/,movie,8.0,80,1948,"Crime, Drama, Mystery, Thriller",128589,1948-08-26,Alfred Hitchcock
+159,tt0057565,2015-05-31,2015-05-31,,Tengoku to jigoku,https://www.imdb.com/title/tt0057565/,movie,8.4,143,1963,"Crime, Drama, Mystery, Thriller",33335,1963-03-01,Akira Kurosawa
+160,tt1675434,2015-05-31,2015-05-31,,Intouchables,https://www.imdb.com/title/tt1675434/,movie,8.5,112,2011,"Biography, Comedy, Drama",750154,2011-09-23,"Olivier Nakache, Éric Toledano"
+161,tt0045274,2015-05-31,2015-05-31,,Umberto D.,https://www.imdb.com/title/tt0045274/,movie,8.2,89,1952,Drama,22755,1952-01-10,Vittorio De Sica
+162,tt0079522,2015-05-31,2015-05-31,,Manhattan,https://www.imdb.com/title/tt0079522/,movie,7.9,96,1979,"Comedy, Drama, Romance",130662,1979-04-18,Woody Allen
+163,tt0087884,2015-05-31,2015-05-31,,"Paris, Texas",https://www.imdb.com/title/tt0087884/,movie,8.1,145,1984,Drama,89446,1984-05-19,Wim Wenders
+164,tt0067185,2015-05-31,2015-05-31,,Harold and Maude,https://www.imdb.com/title/tt0067185/,movie,7.9,91,1971,"Comedy, Drama, Romance",70356,1971-12-20,Hal Ashby
+165,tt0108394,2015-05-31,2015-05-31,,Trois couleurs: Bleu,https://www.imdb.com/title/tt0108394/,movie,7.9,94,1993,"Drama, Music, Mystery, Romance",88396,1993-09-03,Krzysztof Kieslowski
+166,tt0109830,2015-05-31,2015-05-31,,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",1787983,1994-06-23,Robert Zemeckis
+167,tt0078748,2015-05-31,2015-05-31,,Alien,https://www.imdb.com/title/tt0078748/,movie,8.4,117,1979,"Horror, Sci-Fi",781233,1979-05-25,Ridley Scott
+168,tt0071360,2015-05-31,2015-05-31,,The Conversation,https://www.imdb.com/title/tt0071360/,movie,7.8,113,1974,"Drama, Mystery, Thriller",97431,1974-04-07,Francis Ford Coppola
+169,tt0112573,2015-05-31,2015-05-31,,Braveheart,https://www.imdb.com/title/tt0112573/,movie,8.3,178,1995,"Biography, Drama, History, War",952518,1995-05-18,Mel Gibson
+170,tt0287467,2015-05-31,2015-05-31,,Hable con ella,https://www.imdb.com/title/tt0287467/,movie,7.9,112,2002,"Drama, Mystery, Romance",104051,2002-03-15,Pedro Almodóvar
+171,tt0365748,2015-05-31,2015-05-31,,Shaun of the Dead,https://www.imdb.com/title/tt0365748/,movie,7.9,99,2004,"Comedy, Horror",508867,2004-03-29,Edgar Wright
+172,tt1454468,2015-05-31,2015-05-31,,Gravity,https://www.imdb.com/title/tt1454468/,movie,7.7,91,2013,"Drama, Sci-Fi, Thriller",764035,2013-08-28,Alfonso Cuarón
+173,tt0276919,2015-05-31,2015-05-31,,Dogville,https://www.imdb.com/title/tt0276919/,movie,8.0,178,2003,"Crime, Drama",136921,2003-05-19,Lars von Trier
+174,tt0041546,2015-05-31,2015-05-31,,Kind Hearts and Coronets,https://www.imdb.com/title/tt0041546/,movie,8.0,106,1949,"Comedy, Crime",34205,1949-06-23,Robert Hamer
+175,tt0025316,2015-05-31,2015-05-31,,It Happened One Night,https://www.imdb.com/title/tt0025316/,movie,8.1,105,1934,"Comedy, Romance",93073,1934-02-18,Frank Capra
+176,tt0112471,2015-05-31,2015-05-31,,Before Sunrise,https://www.imdb.com/title/tt0112471/,movie,8.1,101,1995,"Drama, Romance",268814,1995-01-19,Richard Linklater
+177,tt0758758,2015-05-31,2015-05-31,,Into the Wild,https://www.imdb.com/title/tt0758758/,movie,8.1,148,2007,"Adventure, Biography, Drama",567765,2007-09-01,Sean Penn
+178,tt0172495,2015-05-31,2015-05-31,,Gladiator,https://www.imdb.com/title/tt0172495/,movie,8.5,155,2000,"Action, Adventure, Drama",1328761,2000-05-01,Ridley Scott
+179,tt0090605,2015-05-31,2015-05-31,,Aliens,https://www.imdb.com/title/tt0090605/,movie,8.3,137,1986,"Action, Adventure, Sci-Fi, Thriller",648181,1986-07-14,James Cameron
+180,tt0168629,2015-05-31,2015-05-31,,Dancer in the Dark,https://www.imdb.com/title/tt0168629/,movie,8.0,140,2000,"Crime, Drama, Musical",101455,2000-05-17,Lars von Trier
+181,tt0049406,2015-05-31,2015-05-31,,The Killing,https://www.imdb.com/title/tt0049406/,movie,8.0,84,1956,"Crime, Drama, Film-Noir, Thriller",81024,1956-05-19,Stanley Kubrick
+182,tt0252487,2015-05-31,2015-05-31,,Hababam Sinifi,https://www.imdb.com/title/tt0252487/,movie,9.3,87,1975,"Comedy, Drama",36868,1975-04-30,Ertem Egilmez
+183,tt0381681,2015-05-31,2015-05-31,,Before Sunset,https://www.imdb.com/title/tt0381681/,movie,8.1,80,2004,"Drama, Romance",233562,2004-02-10,Richard Linklater
+184,tt0086250,2015-05-31,2015-05-31,,Scarface,https://www.imdb.com/title/tt0086250/,movie,8.3,170,1983,"Crime, Drama",733659,1983-12-01,Brian De Palma
+185,tt0056218,2015-05-31,2015-05-31,,The Manchurian Candidate,https://www.imdb.com/title/tt0056218/,movie,7.9,126,1962,"Drama, Thriller",70820,1962-10-24,John Frankenheimer
+186,tt0120815,2015-05-31,2015-05-31,,Saving Private Ryan,https://www.imdb.com/title/tt0120815/,movie,8.6,169,1998,"Drama, War",1223702,1998-07-21,Steven Spielberg
+187,tt1201607,2015-05-31,2015-05-31,,Harry Potter and the Deathly Hallows: Part 2,https://www.imdb.com/title/tt1201607/,movie,8.1,130,2011,"Adventure, Drama, Fantasy, Mystery",756078,2011-07-07,David Yates
+188,tt0036868,2015-05-31,2015-05-31,,The Best Years of Our Lives,https://www.imdb.com/title/tt0036868/,movie,8.0,170,1946,"Drama, Romance, War",56929,1946-11-21,William Wyler
+189,tt0083987,2015-05-31,2015-05-31,,Gandhi,https://www.imdb.com/title/tt0083987/,movie,8.0,191,1982,"Biography, Drama, History",216771,1982-11-30,Richard Attenborough
+190,tt0476735,2015-05-31,2015-05-31,,Babam ve Oglum,https://www.imdb.com/title/tt0476735/,movie,8.3,112,2005,"Drama, Family",77889,2005-11-18,Çagan Irmak
+191,tt0048021,2015-05-31,2015-05-31,,Du rififi chez les hommes,https://www.imdb.com/title/tt0048021/,movie,8.2,118,1955,"Crime, Drama, Thriller",28090,1955-04-13,Jules Dassin
+192,tt0986264,2015-05-31,2015-05-31,,Taare Zameen Par,https://www.imdb.com/title/tt0986264/,movie,8.4,165,2007,"Drama, Family",166432,2007-12-21,"Aamir Khan, Amole Gupte"
+193,tt0093779,2015-05-31,2015-05-31,,The Princess Bride,https://www.imdb.com/title/tt0093779/,movie,8.0,98,1987,"Adventure, Family, Fantasy, Romance",390829,1987-09-18,Rob Reiner
+194,tt0092067,2015-05-31,2015-05-31,,Tenkû no shiro Rapyuta,https://www.imdb.com/title/tt0092067/,movie,8.0,125,1986,"Animation, Adventure, Drama, Family, Fantasy, Sci-Fi",148366,1986-08-02,Hayao Miyazaki
+195,tt1798709,2015-05-31,2015-05-31,,Her,https://www.imdb.com/title/tt1798709/,movie,8.0,126,2013,"Drama, Romance, Sci-Fi",534709,2013-10-12,Spike Jonze
+196,tt0064115,2015-05-31,2015-05-31,,Butch Cassidy and the Sundance Kid,https://www.imdb.com/title/tt0064115/,movie,8.0,110,1969,"Biography, Crime, Drama, Western",200828,1969-09-23,George Roy Hill
+197,tt0023969,2015-05-31,2015-05-31,,Duck Soup,https://www.imdb.com/title/tt0023969/,movie,7.8,69,1933,"Comedy, Musical, War",55351,1933-11-15,Leo McCarey
+198,tt0057115,2015-05-31,2015-05-31,,The Great Escape,https://www.imdb.com/title/tt0057115/,movie,8.2,172,1963,"Adventure, Drama, History, Thriller, War",222856,1963-06-20,John Sturges
+199,tt0059578,2015-05-31,2015-05-31,,Per qualche dollaro in più,https://www.imdb.com/title/tt0059578/,movie,8.3,132,1965,Western,230560,1965-12-18,Sergio Leone
+200,tt0113277,2015-05-31,2015-05-31,,Heat,https://www.imdb.com/title/tt0113277/,movie,8.2,170,1995,"Crime, Drama, Thriller",571300,1995-12-06,Michael Mann
+201,tt1504320,2015-05-31,2015-05-31,,The King's Speech,https://www.imdb.com/title/tt1504320/,movie,8.0,118,2010,"Biography, Drama, History",635059,2010-09-06,Tom Hooper
+202,tt0107207,2015-05-31,2015-05-31,,In the Name of the Father,https://www.imdb.com/title/tt0107207/,movie,8.1,133,1993,"Biography, Crime, Drama",155469,1993-12-12,Jim Sheridan
+203,tt0088258,2015-05-31,2015-05-31,,This Is Spinal Tap,https://www.imdb.com/title/tt0088258/,movie,7.9,82,1984,"Comedy, Music",127907,1984-03-02,Rob Reiner
+204,tt2024544,2015-05-31,2015-05-31,,12 Years a Slave,https://www.imdb.com/title/tt2024544/,movie,8.1,134,2013,"Biography, Drama, History",634399,2013-08-30,Steve McQueen
+205,tt0058946,2015-05-31,2015-05-31,,La battaglia di Algeri,https://www.imdb.com/title/tt0058946/,movie,8.1,121,1966,"Drama, War",52415,1966-08-31,Gillo Pontecorvo
+206,tt0375679,2015-05-31,2015-05-31,,Crash,https://www.imdb.com/title/tt0375679/,movie,7.7,112,2004,"Crime, Drama, Thriller",417831,2004-09-10,Paul Haggis
+207,tt0118694,2015-05-31,2015-05-31,,Fa yeung nin wah,https://www.imdb.com/title/tt0118694/,movie,8.1,98,2000,"Drama, Romance",122470,2000-05-20,Kar-Wai Wong
+208,tt0031885,2015-05-31,2015-05-31,,La règle du jeu,https://www.imdb.com/title/tt0031885/,movie,8.0,110,1939,"Comedy, Drama",26511,1939-07-08,Jean Renoir
+209,tt0053472,2015-05-31,2015-05-31,,À bout de souffle,https://www.imdb.com/title/tt0053472/,movie,7.8,90,1960,"Crime, Drama",72545,1960-03-16,Jean-Luc Godard
+210,tt0947798,2015-05-31,2015-05-31,,Black Swan,https://www.imdb.com/title/tt0947798/,movie,8.0,108,2010,"Drama, Thriller",694393,2010-09-01,Darren Aronofsky
+211,tt0283509,2015-05-31,2015-05-31,,No Man's Land,https://www.imdb.com/title/tt0283509/,movie,7.9,98,2001,"Comedy, Drama, War",44381,2001-05-12,Danis Tanovic
+212,tt0116282,2015-05-31,2015-05-31,,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Drama, Thriller",611716,1996-03-08,"Ethan Coen, Joel Coen"
+213,tt0175880,2015-05-31,2015-05-31,,Magnolia,https://www.imdb.com/title/tt0175880/,movie,8.0,188,1999,Drama,287811,1999-12-08,Paul Thomas Anderson
+214,tt0299977,2015-05-31,2015-05-31,,Ying xiong,https://www.imdb.com/title/tt0299977/,movie,7.9,120,2002,"Action, Adventure, History",173329,2002-10-24,Yimou Zhang
+215,tt0046268,2015-05-31,2015-05-31,,Le salaire de la peur,https://www.imdb.com/title/tt0046268/,movie,8.1,131,1953,"Adventure, Drama, Thriller",54048,1953-04-15,Henri-Georges Clouzot
+216,tt0078841,2015-05-31,2015-05-31,,Being There,https://www.imdb.com/title/tt0078841/,movie,8.0,130,1979,"Comedy, Drama",65103,1979-12-20,Hal Ashby
+217,tt0109707,2015-05-31,2015-05-31,,Ed Wood,https://www.imdb.com/title/tt0109707/,movie,7.8,127,1994,"Biography, Comedy, Drama",164330,1994-09-24,Tim Burton
+218,tt0071411,2015-05-31,2015-05-31,,Dersu Uzala,https://www.imdb.com/title/tt0071411/,movie,8.3,142,1975,"Adventure, Biography, Drama",23492,1975-07-31,Akira Kurosawa
+219,tt1659337,2015-05-31,2015-05-31,,The Perks of Being a Wallflower,https://www.imdb.com/title/tt1659337/,movie,8.0,103,2012,"Drama, Romance",458265,2012-09-08,Stephen Chbosky
+220,tt0060827,2015-05-31,2015-05-31,,Persona,https://www.imdb.com/title/tt0060827/,movie,8.1,85,1966,"Drama, Thriller",101631,1966-10-18,Ingmar Bergman
+221,tt0055031,2015-05-31,2015-05-31,,Judgment at Nuremberg,https://www.imdb.com/title/tt0055031/,movie,8.2,179,1961,"Drama, War",68801,1961-12-14,Stanley Kramer
+222,tt2294629,2015-05-31,2015-05-31,,Frozen,https://www.imdb.com/title/tt2294629/,movie,7.4,102,2013,"Animation, Adventure, Comedy, Family, Fantasy, Musical",567791,2013-11-10,"Jennifer Lee, Chris Buck"
+223,tt0015648,2015-05-31,2015-05-31,,Bronenosets Potemkin,https://www.imdb.com/title/tt0015648/,movie,8.0,75,1925,"Drama, History, Thriller, War",52666,1925-11-12,Sergei M. Eisenstein
+224,tt0166896,2015-05-31,2015-05-31,,The Straight Story,https://www.imdb.com/title/tt0166896/,movie,8.0,112,1999,"Biography, Drama",81178,1999-05-21,David Lynch
+225,tt0151804,2015-05-31,2015-05-31,,Office Space,https://www.imdb.com/title/tt0151804/,movie,7.7,89,1999,Comedy,240098,1999-02-19,Mike Judge
+226,tt0130827,2015-05-31,2015-05-31,,Lola rennt,https://www.imdb.com/title/tt0130827/,movie,7.6,81,1998,"Crime, Drama, Thriller",187500,1998-08-20,Tom Tykwer
+227,tt1655442,2015-05-31,2015-05-31,,The Artist,https://www.imdb.com/title/tt1655442/,movie,7.9,100,2011,"Comedy, Drama, Romance",229422,2011-05-15,Michel Hazanavicius
+228,tt0044081,2015-05-31,2015-05-31,,A Streetcar Named Desire,https://www.imdb.com/title/tt0044081/,movie,8.0,122,1951,Drama,98405,1951-09-09,Elia Kazan
+229,tt0032904,2015-05-31,2015-05-31,,The Philadelphia Story,https://www.imdb.com/title/tt0032904/,movie,7.9,112,1940,"Comedy, Romance",62919,1940-12-05,George Cukor
+230,tt0091763,2015-05-31,2015-05-31,,Platoon,https://www.imdb.com/title/tt0091763/,movie,8.1,120,1986,"Drama, War",378438,1986-12-19,Oliver Stone
+231,tt0046250,2015-05-31,2015-05-31,,Roman Holiday,https://www.imdb.com/title/tt0046250/,movie,8.0,118,1953,"Comedy, Romance",126376,1953-08-20,William Wyler
+232,tt0045152,2015-05-31,2015-05-31,,Singin' in the Rain,https://www.imdb.com/title/tt0045152/,movie,8.3,103,1952,"Comedy, Musical, Romance",216664,1952-03-27,"Gene Kelly, Stanley Donen"
+233,tt0056443,2015-05-31,2015-05-31,,Tsubaki Sanjûrô,https://www.imdb.com/title/tt0056443/,movie,8.1,96,1962,"Action, Comedy, Crime, Drama, Thriller",32530,1962-01-01,Akira Kurosawa
+234,tt0051808,2015-05-31,2015-05-31,,Kakushi-toride no san-akunin,https://www.imdb.com/title/tt0051808/,movie,8.1,139,1958,"Adventure, Drama",34250,1958-12-28,Akira Kurosawa
+235,tt1187043,2015-05-31,2015-05-31,,3 Idiots,https://www.imdb.com/title/tt1187043/,movie,8.4,170,2009,"Comedy, Drama",339981,2009-12-23,Rajkumar Hirani
+236,tt0069293,2015-05-31,2015-05-31,,Solyaris,https://www.imdb.com/title/tt0069293/,movie,8.1,167,1972,"Drama, Mystery, Sci-Fi",80075,1972-02-05,Andrei Tarkovsky
+237,tt0090967,2015-05-31,2015-05-31,,Down by Law,https://www.imdb.com/title/tt0090967/,movie,7.8,107,1986,"Comedy, Crime, Drama",47516,1986-05-17,Jim Jarmusch
+238,tt0077405,2015-05-31,2015-05-31,,Days of Heaven,https://www.imdb.com/title/tt0077405/,movie,7.8,94,1978,"Drama, Romance",52274,1978-09-13,Terrence Malick
+239,tt0166924,2015-05-31,2015-05-31,,Mulholland Dr.,https://www.imdb.com/title/tt0166924/,movie,7.9,147,2001,"Drama, Mystery, Thriller",318588,2001-05-16,David Lynch
+240,tt0144117,2015-05-31,2015-05-31,,The Boondock Saints,https://www.imdb.com/title/tt0144117/,movie,7.8,108,1999,"Action, Crime, Thriller",226273,1999-08-04,Troy Duffy
+241,tt0301357,2015-05-31,2015-05-31,,Good Bye Lenin!,https://www.imdb.com/title/tt0301357/,movie,7.7,121,2003,"Comedy, Drama, Romance",137160,2003-02-09,Wolfgang Becker
+242,tt0482571,2015-05-31,2015-05-31,,The Prestige,https://www.imdb.com/title/tt0482571/,movie,8.5,130,2006,"Drama, Mystery, Sci-Fi, Thriller",1177276,2006-10-17,Christopher Nolan
+243,tt1305806,2015-05-31,2015-05-31,,El secreto de sus ojos,https://www.imdb.com/title/tt1305806/,movie,8.2,129,2009,"Drama, Mystery, Romance, Thriller",191211,2009-08-13,Juan José Campanella
+244,tt0347048,2015-05-31,2015-05-31,,Gegen die Wand,https://www.imdb.com/title/tt0347048/,movie,7.9,121,2004,"Drama, Romance",50973,2004-02-12,Fatih Akin
+245,tt0067328,2015-05-31,2015-05-31,,The Last Picture Show,https://www.imdb.com/title/tt0067328/,movie,8.0,118,1971,"Drama, Romance",42008,1971-10-02,Peter Bogdanovich
+246,tt0044706,2015-05-31,2015-05-31,,High Noon,https://www.imdb.com/title/tt0044706/,movie,7.9,85,1952,"Drama, Thriller, Western",96628,1952-05-01,Fred Zinnemann
+247,tt2106476,2015-05-31,2015-05-31,,Jagten,https://www.imdb.com/title/tt2106476/,movie,8.3,115,2012,Drama,276510,2012-05-20,Thomas Vinterberg
+248,tt0054997,2015-05-31,2015-05-31,,The Hustler,https://www.imdb.com/title/tt0054997/,movie,8.0,134,1961,"Drama, Sport",74700,1961-09-24,Robert Rossen
+249,tt0092005,2015-05-31,2015-05-31,,Stand by Me,https://www.imdb.com/title/tt0092005/,movie,8.1,89,1986,"Adventure, Drama",360663,1986-08-06,Rob Reiner
+250,tt0838221,2015-05-31,2015-05-31,,The Darjeeling Limited,https://www.imdb.com/title/tt0838221/,movie,7.2,91,2007,"Adventure, Comedy, Drama",179102,2007-08-31,Wes Anderson
+251,tt1605783,2015-05-31,2015-05-31,,Midnight in Paris,https://www.imdb.com/title/tt1605783/,movie,7.7,96,2011,"Comedy, Fantasy, Romance",385221,2011-05-11,Woody Allen
+252,tt1255953,2015-05-31,2015-05-31,,Incendies,https://www.imdb.com/title/tt1255953/,movie,8.3,131,2010,"Drama, Mystery, War",147327,2010-09-03,Denis Villeneuve
+253,tt0086250,2015-05-31,2015-05-31,,Scarface,https://www.imdb.com/title/tt0086250/,movie,8.3,170,1983,"Crime, Drama",733659,1983-12-01,Brian De Palma
+254,tt0112641,2015-05-31,2015-05-31,,Casino,https://www.imdb.com/title/tt0112641/,movie,8.2,178,1995,"Crime, Drama",461545,1995-04-03,Martin Scorsese
+255,tt0105236,2015-05-31,2015-05-31,,Reservoir Dogs,https://www.imdb.com/title/tt0105236/,movie,8.3,99,1992,"Crime, Drama, Thriller",910439,1992-01-21,Quentin Tarantino
+256,tt0110912,2015-05-31,2015-05-31,,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",1808910,1994-05-21,Quentin Tarantino
+257,tt0108399,2015-05-31,2015-05-31,,True Romance,https://www.imdb.com/title/tt0108399/,movie,7.9,119,1993,"Crime, Drama, Romance, Thriller",205363,1993-09-08,Tony Scott
+258,tt0119396,2015-05-31,2015-05-31,,Jackie Brown,https://www.imdb.com/title/tt0119396/,movie,7.5,154,1997,"Crime, Drama, Thriller",313679,1997-12-08,Quentin Tarantino
+259,tt0266697,2015-05-31,2015-05-31,,Kill Bill: Vol. 1,https://www.imdb.com/title/tt0266697/,movie,8.1,111,2003,"Action, Crime, Thriller",991927,2003-09-29,Quentin Tarantino
+260,tt0378194,2015-05-31,2015-05-31,,Kill Bill: Vol. 2,https://www.imdb.com/title/tt0378194/,movie,8.0,137,2004,"Action, Crime, Thriller",678244,2004-04-08,Quentin Tarantino
+261,tt1853728,2015-05-31,2015-05-31,,Django Unchained,https://www.imdb.com/title/tt1853728/,movie,8.4,165,2012,"Drama, Western",1342340,2012-12-11,Quentin Tarantino
+262,tt0102926,2015-05-31,2015-05-31,,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1257540,1991-01-30,Jonathan Demme
+263,tt0096895,2015-05-31,2015-05-31,,Batman,https://www.imdb.com/title/tt0096895/,movie,7.5,126,1989,"Action, Adventure",336261,1989-06-19,Tim Burton
+264,tt0372784,2015-05-31,2015-05-31,,Batman Begins,https://www.imdb.com/title/tt0372784/,movie,8.2,140,2005,"Action, Adventure",1297137,2005-05-31,Christopher Nolan
+265,tt0468569,2015-05-31,2015-05-31,,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9.0,152,2008,"Action, Crime, Drama, Thriller",2280826,2008-07-14,Christopher Nolan
+266,tt1345836,2015-05-31,2015-05-31,,The Dark Knight Rises,https://www.imdb.com/title/tt1345836/,movie,8.4,164,2012,"Action, Adventure",1503093,2012-07-16,Christopher Nolan
+267,tt0081505,2015-05-31,2015-05-31,,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",889330,1980-05-23,Stanley Kubrick
+268,tt0074285,2015-05-31,2015-05-31,,Carrie,https://www.imdb.com/title/tt0074285/,movie,7.4,98,1976,Horror,167237,1976-11-03,Brian De Palma
+269,tt0074285,2015-05-31,2015-05-31,,Carrie,https://www.imdb.com/title/tt0074285/,movie,7.4,98,1976,Horror,167237,1976-11-03,Brian De Palma
+270,tt0066921,2015-05-31,2015-05-31,,A Clockwork Orange,https://www.imdb.com/title/tt0066921/,movie,8.3,136,1971,"Crime, Drama, Sci-Fi",751966,1971-12-19,Stanley Kubrick
+271,tt0094027,2015-05-31,2015-05-31,,Stand and Deliver,https://www.imdb.com/title/tt0094027/,movie,7.3,103,1988,"Biography, Drama",16772,1988-02-13,Ramón Menéndez
+272,tt0117802,2015-05-31,2015-05-31,,Swingers,https://www.imdb.com/title/tt0117802/,movie,7.2,96,1996,"Comedy, Drama",74844,1996-08-31,Doug Liman
+273,tt0120586,2015-05-31,2015-05-31,,American History X,https://www.imdb.com/title/tt0120586/,movie,8.5,119,1998,Drama,1027132,1998-07-01,Tony Kaye
+274,tt0137523,2015-05-31,2015-05-31,,Fight Club,https://www.imdb.com/title/tt0137523/,movie,8.8,139,1999,Drama,1836734,1999-09-10,David Fincher
+275,tt0307901,2015-05-31,2015-05-31,,25th Hour,https://www.imdb.com/title/tt0307901/,movie,7.6,135,2002,Drama,169054,2002-12-16,Spike Lee
+276,tt0289043,2015-05-31,2015-05-31,,28 Days Later...,https://www.imdb.com/title/tt0289043/,movie,7.6,113,2002,"Drama, Horror, Sci-Fi, Thriller",374485,2002-11-01,Danny Boyle
+277,tt0088763,2015-05-31,2015-05-31,,Back to the Future,https://www.imdb.com/title/tt0088763/,movie,8.5,116,1985,"Adventure, Comedy, Sci-Fi",1046792,1985-07-03,Robert Zemeckis
+278,tt0096874,2015-05-31,2015-05-31,,Back to the Future Part II,https://www.imdb.com/title/tt0096874/,movie,7.8,108,1989,"Adventure, Comedy, Sci-Fi",477111,1989-11-20,Robert Zemeckis
+279,tt0099088,2015-05-31,2015-05-31,,Back to the Future Part III,https://www.imdb.com/title/tt0099088/,movie,7.4,118,1990,"Adventure, Comedy, Sci-Fi, Western",401873,1990-05-25,Robert Zemeckis
+280,tt0210945,2015-05-31,2015-05-31,,Remember the Titans,https://www.imdb.com/title/tt0210945/,movie,7.8,113,2000,"Biography, Drama, Sport",196642,2000-09-23,Boaz Yakin
+281,tt0109830,2015-05-31,2015-05-31,,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",1787983,1994-06-23,Robert Zemeckis
+282,tt0089218,2015-05-31,2015-05-31,,The Goonies,https://www.imdb.com/title/tt0089218/,movie,7.8,114,1985,"Adventure, Comedy, Family",242251,1985-06-07,Richard Donner
+283,tt0088847,2015-05-31,2015-05-31,,The Breakfast Club,https://www.imdb.com/title/tt0088847/,movie,7.8,97,1985,"Comedy, Drama",354525,1985-02-07,John Hughes
+284,tt0095705,2015-05-31,2015-05-31,,The Naked Gun: From the Files of Police Squad!,https://www.imdb.com/title/tt0095705/,movie,7.6,85,1988,"Comedy, Crime",151250,1988-12-02,David Zucker
+285,tt0093409,2015-05-31,2015-05-31,,Lethal Weapon,https://www.imdb.com/title/tt0093409/,movie,7.6,109,1987,"Action, Crime, Thriller",235009,1987-03-06,Richard Donner
+286,tt0140352,2015-05-31,2015-05-31,,The Insider,https://www.imdb.com/title/tt0140352/,movie,7.8,157,1999,"Biography, Drama, Thriller",158881,1999-10-28,Michael Mann
+287,tt0172495,2015-05-31,2015-05-31,,Gladiator,https://www.imdb.com/title/tt0172495/,movie,8.5,155,2000,"Action, Adventure, Drama",1328761,2000-05-01,Ridley Scott
+288,tt0111161,2015-05-31,2015-05-31,,The Shawshank Redemption,https://www.imdb.com/title/tt0111161/,movie,9.3,142,1994,Drama,2318636,1994-09-10,Frank Darabont
+289,tt1125849,2015-05-31,2015-05-31,,The Wrestler,https://www.imdb.com/title/tt1125849/,movie,7.9,109,2008,"Drama, Sport",288291,2008-09-05,Darren Aronofsky
+290,tt0133093,2015-05-31,2015-05-31,,The Matrix,https://www.imdb.com/title/tt0133093/,movie,8.7,136,1999,"Action, Sci-Fi",1659212,1999-03-24,"Lilly Wachowski, Lana Wachowski"
+291,tt0387564,2015-05-31,2015-05-31,,Saw,https://www.imdb.com/title/tt0387564/,movie,7.6,103,2004,"Horror, Mystery",376873,2004-01-19,James Wan
+292,tt0087800,2015-05-31,2015-05-31,,A Nightmare on Elm Street,https://www.imdb.com/title/tt0087800/,movie,7.5,91,1984,Horror,205614,1984-10-31,Wes Craven
+293,tt0072271,2015-05-31,2015-05-31,,The Texas Chain Saw Massacre,https://www.imdb.com/title/tt0072271/,movie,7.5,83,1974,Horror,136426,1974-10-01,Tobe Hooper
+294,tt0268978,2015-05-31,2015-05-31,,A Beautiful Mind,https://www.imdb.com/title/tt0268978/,movie,8.2,135,2001,"Biography, Drama",840902,2001-12-13,Ron Howard
+295,tt1458175,2015-05-31,2015-05-31,,The Next Three Days,https://www.imdb.com/title/tt1458175/,movie,7.4,133,2010,"Action, Crime, Drama, Romance, Thriller",181176,2010-11-09,Paul Haggis
+296,tt0109445,2015-05-31,2015-05-31,,Clerks,https://www.imdb.com/title/tt0109445/,movie,7.7,92,1994,Comedy,210743,1994-01-31,Kevin Smith
+297,tt0424345,2015-05-31,2015-05-31,,Clerks II,https://www.imdb.com/title/tt0424345/,movie,7.3,97,2006,Comedy,129632,2006-05-26,Kevin Smith
+298,tt0118842,2015-05-31,2015-05-31,,Chasing Amy,https://www.imdb.com/title/tt0118842/,movie,7.2,113,1997,"Comedy, Drama, Romance",131729,1997-01-23,Kevin Smith
+299,tt0120655,2015-05-31,2015-05-31,,Dogma,https://www.imdb.com/title/tt0120655/,movie,7.3,130,1999,"Adventure, Comedy, Drama, Fantasy",207003,1999-05-21,Kevin Smith
+300,tt1119646,2015-05-31,2015-05-31,,The Hangover,https://www.imdb.com/title/tt1119646/,movie,7.7,100,2009,Comedy,713199,2009-05-30,Todd Phillips
+301,tt0208092,2015-05-31,2015-05-31,,Snatch,https://www.imdb.com/title/tt0208092/,movie,8.3,104,2000,"Comedy, Crime",775991,2000-08-23,Guy Ritchie
+302,tt0120735,2015-05-31,2015-05-31,,"Lock, Stock and Two Smoking Barrels",https://www.imdb.com/title/tt0120735/,movie,8.2,107,1998,"Action, Comedy, Crime",531271,1998-08-23,Guy Ritchie
+303,tt0106519,2015-05-31,2015-05-31,,Carlito's Way,https://www.imdb.com/title/tt0106519/,movie,7.9,144,1993,"Crime, Drama, Thriller",199441,1993-11-07,Brian De Palma
+304,tt0113277,2015-05-31,2015-05-31,,Heat,https://www.imdb.com/title/tt0113277/,movie,8.2,170,1995,"Crime, Drama, Thriller",571300,1995-12-06,Michael Mann
+305,tt0110074,2015-05-31,2015-05-31,,The Hudsucker Proxy,https://www.imdb.com/title/tt0110074/,movie,7.2,111,1994,"Comedy, Drama, Fantasy",76529,1994-01-27,"Ethan Coen, Joel Coen"
+306,tt0084503,2015-05-31,2015-05-31,,Pink Floyd: The Wall,https://www.imdb.com/title/tt0084503/,movie,8.1,95,1982,"Drama, Fantasy, Music",75633,1982-05-22,Alan Parker
+307,tt0120669,2015-05-31,2015-05-31,,Fear and Loathing in Las Vegas,https://www.imdb.com/title/tt0120669/,movie,7.6,118,1998,"Adventure, Comedy, Drama",258225,1998-05-15,Terry Gilliam
+308,tt0936501,2015-05-31,2015-05-31,,Taken,https://www.imdb.com/title/tt0936501/,movie,7.8,90,2008,"Action, Thriller",562287,2008-02-27,Pierre Morel
+309,tt0075148,2015-05-31,2015-05-31,,Rocky,https://www.imdb.com/title/tt0075148/,movie,8.1,120,1976,"Drama, Sport",513962,1976-11-20,John G. Avildsen
+310,tt0073629,2015-05-31,2015-05-31,,The Rocky Horror Picture Show,https://www.imdb.com/title/tt0073629/,movie,7.4,100,1975,"Comedy, Musical",132283,1975-08-14,Jim Sharman
+311,tt0088930,2015-05-31,2015-05-31,,Clue,https://www.imdb.com/title/tt0088930/,movie,7.3,94,1985,"Comedy, Crime, Mystery, Thriller",81539,1985-12-13,Jonathan Lynn
+312,tt0099785,2015-05-31,2015-05-31,,Home Alone,https://www.imdb.com/title/tt0099785/,movie,7.6,103,1990,"Comedy, Family",467696,1990-11-10,Chris Columbus
+313,tt0167404,2015-05-31,2015-05-31,,The Sixth Sense,https://www.imdb.com/title/tt0167404/,movie,8.1,107,1999,"Drama, Mystery, Thriller",905297,1999-08-02,M. Night Shyamalan
+314,tt0120903,2015-05-31,2015-05-31,,X-Men,https://www.imdb.com/title/tt0120903/,movie,7.4,104,2000,"Action, Adventure, Sci-Fi",567490,2000-07-12,Bryan Singer
+315,tt0290334,2015-05-31,2015-05-31,,X2,https://www.imdb.com/title/tt0290334/,movie,7.4,134,2003,"Action, Adventure, Sci-Fi, Thriller",508912,2003-04-24,Bryan Singer
+316,tt1270798,2015-05-31,2015-05-31,,X: First Class,https://www.imdb.com/title/tt1270798/,movie,7.7,131,2011,"Action, Adventure, Sci-Fi",642362,2011-05-25,Matthew Vaughn
+317,tt0316654,2015-05-31,2015-05-31,,Spider-Man 2,https://www.imdb.com/title/tt0316654/,movie,7.3,127,2004,"Action, Adventure, Sci-Fi",539731,2004-06-25,Sam Raimi
+318,tt0108037,2015-05-31,2015-05-31,,The Sandlot,https://www.imdb.com/title/tt0108037/,movie,7.8,101,1993,"Comedy, Drama, Family, Sport",78375,1993-04-07,David Mickey Evans
+319,tt0332280,2015-05-31,2015-05-31,,The Notebook,https://www.imdb.com/title/tt0332280/,movie,7.8,123,2004,"Drama, Romance",515908,2004-05-20,Nick Cassavetes
+320,tt0093748,2015-05-31,2015-05-31,,"Planes, Trains & Automobiles",https://www.imdb.com/title/tt0093748/,movie,7.6,93,1987,"Comedy, Drama",123057,1987-11-25,John Hughes
+321,tt0104952,2015-05-31,2015-05-31,,My Cousin Vinny,https://www.imdb.com/title/tt0104952/,movie,7.6,120,1992,"Comedy, Crime",106167,1992-03-13,Jonathan Lynn
+322,tt0083866,2015-05-31,2015-05-31,,E.T. the Extra-Terrestrial,https://www.imdb.com/title/tt0083866/,movie,7.8,115,1982,"Family, Sci-Fi",368919,1982-05-26,Steven Spielberg
+323,tt0118749,2015-05-31,2015-05-31,,Boogie Nights,https://www.imdb.com/title/tt0118749/,movie,7.9,155,1997,Drama,237365,1997-09-11,Paul Thomas Anderson
+324,tt0117666,2015-05-31,2015-05-31,,Sling Blade,https://www.imdb.com/title/tt0117666/,movie,8.0,135,1996,Drama,86432,1996-08-30,Billy Bob Thornton
+325,tt0087332,2015-05-31,2015-05-31,,Ghostbusters,https://www.imdb.com/title/tt0087332/,movie,7.8,105,1984,"Action, Comedy, Fantasy",352703,1984-06-07,Ivan Reitman
+326,tt0181875,2015-05-31,2015-05-31,,Almost Famous,https://www.imdb.com/title/tt0181875/,movie,7.9,122,2000,"Adventure, Comedy, Drama, Music",250900,2000-09-08,Cameron Crowe
+327,tt0375063,2015-05-31,2015-05-31,,Sideways,https://www.imdb.com/title/tt0375063/,movie,7.5,127,2004,"Comedy, Drama, Romance",178544,2004-09-13,Alexander Payne
+328,tt0117665,2015-05-31,2015-05-31,,Sleepers,https://www.imdb.com/title/tt0117665/,movie,7.6,147,1996,"Crime, Drama, Thriller",185556,1996-08-28,Barry Levinson
+329,tt0120338,2015-05-31,2015-05-31,,Titanic,https://www.imdb.com/title/tt0120338/,movie,7.8,194,1997,"Drama, Romance",1037034,1997-11-01,James Cameron
+330,tt0209144,2015-05-31,2015-05-31,,Memento,https://www.imdb.com/title/tt0209144/,movie,8.4,113,2000,"Mystery, Thriller",1116146,2000-09-05,Christopher Nolan
+331,tt0166924,2015-05-31,2015-05-31,,Mulholland Dr.,https://www.imdb.com/title/tt0166924/,movie,7.9,147,2001,"Drama, Mystery, Thriller",318588,2001-05-16,David Lynch
+332,tt0309698,2015-05-31,2015-05-31,,Identity,https://www.imdb.com/title/tt0309698/,movie,7.3,90,2003,"Mystery, Thriller",225743,2003-04-23,James Mangold
+333,tt0106489,2015-05-31,2015-05-31,,A Bronx Tale,https://www.imdb.com/title/tt0106489/,movie,7.8,121,1993,"Crime, Drama, Romance",127078,1993-09-09,Robert De Niro
+334,tt0144117,2015-05-31,2015-05-31,,The Boondock Saints,https://www.imdb.com/title/tt0144117/,movie,7.8,108,1999,"Action, Crime, Thriller",226273,1999-08-04,Troy Duffy
+335,tt0147612,2015-05-31,2015-05-31,,Happiness,https://www.imdb.com/title/tt0147612/,movie,7.7,134,1998,"Comedy, Drama",66074,1998-05-15,Todd Solondz
+336,tt0765429,2015-05-31,2015-05-31,,American Gangster,https://www.imdb.com/title/tt0765429/,movie,7.8,157,2007,"Biography, Crime, Drama, Thriller",389015,2007-10-19,Ridley Scott
+337,tt0116922,2015-05-31,2015-05-31,,Lost Highway,https://www.imdb.com/title/tt0116922/,movie,7.6,134,1997,"Mystery, Thriller",129893,1997-01-15,David Lynch
+338,tt0108550,2015-05-31,2015-05-31,,What's Eating Gilbert Grape,https://www.imdb.com/title/tt0108550/,movie,7.8,118,1993,Drama,213008,1993-10-01,Lasse Hallström
+339,tt0119217,2015-05-31,2015-05-31,,Good Will Hunting,https://www.imdb.com/title/tt0119217/,movie,8.3,126,1997,"Drama, Romance",852715,1997-12-02,Gus Van Sant
+340,tt0190332,2015-05-31,2015-05-31,,Wo hu cang long,https://www.imdb.com/title/tt0190332/,movie,7.8,120,2000,"Action, Adventure, Fantasy, Romance",251644,2000-05-18,Ang Lee
+341,tt0364569,2015-05-31,2015-05-31,,Oldeuboi,https://www.imdb.com/title/tt0364569/,movie,8.4,120,2003,"Action, Drama, Mystery, Thriller",510188,2003-11-21,Chan-wook Park
+342,tt0290673,2015-05-31,2015-05-31,,Irréversible,https://www.imdb.com/title/tt0290673/,movie,7.4,97,2002,"Crime, Drama, Mystery, Thriller",118994,2002-05-24,Gaspar Noé
+343,tt0151804,2015-05-31,2015-05-31,,Office Space,https://www.imdb.com/title/tt0151804/,movie,7.7,89,1999,Comedy,240098,1999-02-19,Mike Judge
+344,tt0104036,2015-05-31,2015-05-31,,The Crying Game,https://www.imdb.com/title/tt0104036/,movie,7.2,112,1992,"Crime, Drama, Romance, Thriller",50773,1992-09-02,Neil Jordan
+345,tt0120689,2015-05-31,2015-05-31,,The Green Mile,https://www.imdb.com/title/tt0120689/,movie,8.6,189,1999,"Crime, Drama, Fantasy, Mystery",1134588,1999-12-06,Frank Darabont
+346,tt0878804,2015-05-31,2015-05-31,,The Blind Side,https://www.imdb.com/title/tt0878804/,movie,7.6,129,2009,"Biography, Drama, Sport",290375,2009-11-17,John Lee Hancock
+347,tt0112818,2015-05-31,2015-05-31,,Dead Man Walking,https://www.imdb.com/title/tt0112818/,movie,7.5,122,1995,"Crime, Drama",87997,1995-12-29,Tim Robbins
+348,tt0103074,2015-05-31,2015-05-31,,Thelma & Louise,https://www.imdb.com/title/tt0103074/,movie,7.5,130,1991,"Adventure, Crime, Drama",135226,1991-05-20,Ridley Scott
+349,tt0100802,2015-05-31,2015-05-31,,Total Recall,https://www.imdb.com/title/tt0100802/,movie,7.5,113,1990,"Action, Sci-Fi, Thriller",300177,1990-05-31,Paul Verhoeven
+350,tt0088247,2015-05-31,2015-05-31,,The Terminator,https://www.imdb.com/title/tt0088247/,movie,8.0,107,1984,"Action, Sci-Fi",795414,1984-10-26,James Cameron
+351,tt0103064,2015-05-31,2015-05-31,,Terminator 2: Judgment Day,https://www.imdb.com/title/tt0103064/,movie,8.5,137,1991,"Action, Sci-Fi",988111,1991-07-01,James Cameron
+352,tt0120663,2015-05-31,2015-05-31,,Eyes Wide Shut,https://www.imdb.com/title/tt0120663/,movie,7.4,159,1999,"Drama, Mystery, Thriller",300140,1999-07-13,Stanley Kubrick
+353,tt0088258,2015-05-31,2015-05-31,,This Is Spinal Tap,https://www.imdb.com/title/tt0088258/,movie,7.9,82,1984,"Comedy, Music",127907,1984-03-02,Rob Reiner
+354,tt0218839,2015-05-31,2015-05-31,,Best in Show,https://www.imdb.com/title/tt0218839/,movie,7.4,90,2000,Comedy,55449,2000-09-08,Christopher Guest
+355,tt0097958,2015-05-31,2015-05-31,,National Lampoon's Christmas Vacation,https://www.imdb.com/title/tt0097958/,movie,7.6,97,1989,Comedy,153178,1989-11-30,Jeremiah S. Chechik
+356,tt0085995,2015-05-31,2015-05-31,,National Lampoon's Vacation,https://www.imdb.com/title/tt0085995/,movie,7.4,98,1983,"Adventure, Comedy",96075,1983-07-29,Harold Ramis
+357,tt0443453,2015-05-31,2015-05-31,,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,https://www.imdb.com/title/tt0443453/,movie,7.3,84,2006,Comedy,374495,2006-08-04,Larry Charles
+358,tt0054215,2015-05-31,2015-05-31,,Psycho,https://www.imdb.com/title/tt0054215/,movie,8.5,109,1960,"Horror, Mystery, Thriller",598902,1960-06-16,Alfred Hitchcock
+359,tt0047396,2015-05-31,2015-05-31,,Rear Window,https://www.imdb.com/title/tt0047396/,movie,8.4,112,1954,"Mystery, Thriller",440116,1954-08-04,Alfred Hitchcock
+360,tt0094291,2015-05-31,2015-05-31,,Wall Street,https://www.imdb.com/title/tt0094291/,movie,7.4,126,1987,"Crime, Drama",142669,1987-12-11,Oliver Stone
+361,tt0113118,2015-05-31,2015-05-31,,Friday,https://www.imdb.com/title/tt0113118/,movie,7.3,91,1995,"Comedy, Drama",99269,1995-04-26,F. Gary Gray
+362,tt0101507,2015-05-31,2015-05-31,,Boyz n the Hood,https://www.imdb.com/title/tt0101507/,movie,7.8,112,1991,"Crime, Drama",124827,1991-05-13,John Singleton
+363,tt0107554,2015-05-31,2015-05-31,,Menace II Society,https://www.imdb.com/title/tt0107554/,movie,7.5,97,1993,"Crime, Drama, Thriller",51518,1993-05-26,"Allen Hughes, Albert Hughes"
+364,tt0120601,2015-05-31,2015-05-31,,Being John Malkovich,https://www.imdb.com/title/tt0120601/,movie,7.7,113,1999,"Comedy, Drama, Fantasy",310463,1999-09-02,Spike Jonze
+365,tt0094226,2015-05-31,2015-05-31,,The Untouchables,https://www.imdb.com/title/tt0094226/,movie,7.9,119,1987,"Crime, Drama, Thriller",278933,1987-06-02,Brian De Palma
+366,tt0268978,2015-05-31,2015-05-31,,A Beautiful Mind,https://www.imdb.com/title/tt0268978/,movie,8.2,135,2001,"Biography, Drama",840902,2001-12-13,Ron Howard
+367,tt0114814,2015-05-31,2015-05-31,,The Usual Suspects,https://www.imdb.com/title/tt0114814/,movie,8.5,106,1995,"Crime, Mystery, Thriller",983029,1995-01-25,Bryan Singer
+368,tt0169547,2015-05-31,2015-05-31,,American Beauty,https://www.imdb.com/title/tt0169547/,movie,8.3,122,1999,Drama,1062031,1999-09-08,Sam Mendes
+369,tt0289992,2015-05-31,2015-05-31,,The Life of David Gale,https://www.imdb.com/title/tt0289992/,movie,7.6,130,2003,"Crime, Drama, Thriller",109259,2003-02-07,Alan Parker
+370,tt0119008,2015-05-31,2015-05-31,,Donnie Brasco,https://www.imdb.com/title/tt0119008/,movie,7.7,127,1997,"Biography, Crime, Drama",276546,1997-02-24,Mike Newell
+371,tt0120789,2015-05-31,2015-05-31,,Pleasantville,https://www.imdb.com/title/tt0120789/,movie,7.5,124,1998,"Comedy, Drama, Fantasy",120743,1998-09-17,Gary Ross
+372,tt0325980,2015-05-31,2015-05-31,,Pirates of the Caribbean: The Curse of the Black Pearl,https://www.imdb.com/title/tt0325980/,movie,8.0,143,2003,"Action, Adventure, Fantasy",1009912,2003-06-28,Gore Verbinski
+373,tt0383574,2015-05-31,2015-05-31,,Pirates of the Caribbean: Dead Man's Chest,https://www.imdb.com/title/tt0383574/,movie,7.3,151,2006,"Action, Adventure, Fantasy",651075,2006-06-24,Gore Verbinski
+374,tt1131729,2015-05-31,2015-05-31,,The Boat That Rocked,https://www.imdb.com/title/tt1131729/,movie,7.4,135,2009,"Comedy, Drama, Music",106907,2009-04-01,Richard Curtis
+375,tt0119174,2015-05-31,2015-05-31,,The Game,https://www.imdb.com/title/tt0119174/,movie,7.8,129,1997,"Action, Drama, Mystery, Thriller",342056,1997-09-03,David Fincher
+376,tt0277027,2015-05-31,2015-05-31,,I Am Sam,https://www.imdb.com/title/tt0277027/,movie,7.7,132,2001,Drama,142254,2001-12-03,Jessie Nelson
+377,tt0068473,2015-05-31,2015-05-31,,Deliverance,https://www.imdb.com/title/tt0068473/,movie,7.7,109,1972,"Adventure, Drama, Thriller",98154,1972-07-30,John Boorman
+378,tt0181865,2015-05-31,2015-05-31,,Traffic,https://www.imdb.com/title/tt0181865/,movie,7.6,147,2000,"Crime, Drama, Thriller",194795,2000-12-06,Steven Soderbergh
+379,tt0375679,2015-05-31,2015-05-31,,Crash,https://www.imdb.com/title/tt0375679/,movie,7.7,112,2004,"Crime, Drama, Thriller",417831,2004-09-10,Paul Haggis
+380,tt0358273,2015-05-31,2015-05-31,,Walk the Line,https://www.imdb.com/title/tt0358273/,movie,7.8,136,2005,"Biography, Drama, Music, Romance",232521,2005-09-04,James Mangold
+381,tt0107048,2015-05-31,2015-05-31,,Groundhog Day,https://www.imdb.com/title/tt0107048/,movie,8.0,101,1993,"Comedy, Fantasy, Romance",574736,1993-02-04,Harold Ramis
+382,tt0080487,2015-05-31,2015-05-31,,Caddyshack,https://www.imdb.com/title/tt0080487/,movie,7.3,98,1980,"Comedy, Sport",104313,1980-07-25,Harold Ramis
+383,tt0099685,2015-05-31,2015-05-31,,Goodfellas,https://www.imdb.com/title/tt0099685/,movie,8.7,146,1990,"Biography, Crime, Drama",1009546,1990-09-09,Martin Scorsese
+384,tt0221027,2015-05-31,2015-05-31,,Blow,https://www.imdb.com/title/tt0221027/,movie,7.6,124,2001,"Biography, Crime, Drama",239204,2001-03-29,Ted Demme
+385,tt0085334,2015-05-31,2015-05-31,,A Christmas Story,https://www.imdb.com/title/tt0085334/,movie,7.9,93,1983,"Comedy, Family",129404,1983-11-18,Bob Clark
+386,tt0038650,2015-05-31,2015-05-31,,It's a Wonderful Life,https://www.imdb.com/title/tt0038650/,movie,8.6,130,1946,"Drama, Family, Fantasy",395235,1946-12-20,Frank Capra
+387,tt0050083,2015-05-31,2015-05-31,,12 Angry Men,https://www.imdb.com/title/tt0050083/,movie,9.0,96,1957,"Crime, Drama",682252,1957-04-10,Sidney Lumet
+388,tt0120731,2015-05-31,2015-05-31,,La leggenda del pianista sull'oceano,https://www.imdb.com/title/tt0120731/,movie,8.1,169,1998,"Drama, Music, Romance",58495,1998-10-28,Giuseppe Tornatore
+389,tt0091369,2015-05-31,2015-05-31,,Labyrinth,https://www.imdb.com/title/tt0091369/,movie,7.4,101,1986,"Adventure, Family, Fantasy, Musical",123169,1986-06-27,Jim Henson
+390,tt0106677,2015-05-31,2015-05-31,,Dazed and Confused,https://www.imdb.com/title/tt0106677/,movie,7.6,102,1993,Comedy,164134,1993-06-04,Richard Linklater
+391,tt0061512,2015-05-31,2015-05-31,,Cool Hand Luke,https://www.imdb.com/title/tt0061512/,movie,8.1,127,1967,"Crime, Drama",160450,1967-11-01,Stuart Rosenberg
+392,tt0180093,2015-05-31,2015-05-31,,Requiem for a Dream,https://www.imdb.com/title/tt0180093/,movie,8.3,102,2000,Drama,760292,2000-05-14,Darren Aronofsky
+393,tt0289879,2015-05-31,2015-05-31,,The Butterfly Effect,https://www.imdb.com/title/tt0289879/,movie,7.6,113,2004,"Drama, Sci-Fi, Thriller",448839,2004-01-17,"J. Mackye Gruber, Eric Bress"
+394,tt0054331,2015-05-31,2015-05-31,,Spartacus,https://www.imdb.com/title/tt0054331/,movie,7.9,197,1960,"Adventure, Biography, Drama, History, War",123527,1960-10-06,Stanley Kubrick
+395,tt0416449,2015-05-31,2015-05-31,,300,https://www.imdb.com/title/tt0416449/,movie,7.6,117,2006,"Action, Drama",728863,2006-12-09,Zack Snyder
+396,tt0093870,2015-05-31,2015-05-31,,RoboCop,https://www.imdb.com/title/tt0093870/,movie,7.5,102,1987,"Action, Crime, Sci-Fi, Thriller",231380,1987-07-17,Paul Verhoeven
+397,tt0118715,2015-05-31,2015-05-31,,The Big Lebowski,https://www.imdb.com/title/tt0118715/,movie,8.1,117,1998,"Comedy, Crime, Sport",726313,1998-01-18,"Ethan Coen, Joel Coen"
+398,tt0116282,2015-05-31,2015-05-31,,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Drama, Thriller",611716,1996-03-08,"Ethan Coen, Joel Coen"
+399,tt0093822,2015-05-31,2015-05-31,,Raising Arizona,https://www.imdb.com/title/tt0093822/,movie,7.3,94,1987,"Comedy, Crime",125994,1987-03-06,"Ethan Coen, Joel Coen"
+400,tt0340855,2015-05-31,2015-05-31,,Monster,https://www.imdb.com/title/tt0340855/,movie,7.3,109,2003,"Biography, Crime, Drama, Thriller",135222,2003-11-16,Patty Jenkins
+401,tt0093058,2015-05-31,2015-05-31,,Full Metal Jacket,https://www.imdb.com/title/tt0093058/,movie,8.3,116,1987,"Drama, War",669315,1987-06-17,Stanley Kubrick
+402,tt0434409,2015-05-31,2015-05-31,,V for Vendetta,https://www.imdb.com/title/tt0434409/,movie,8.2,132,2005,"Action, Drama, Sci-Fi, Thriller",1024873,2005-12-11,James McTeigue
+403,tt0092005,2015-05-31,2015-05-31,,Stand by Me,https://www.imdb.com/title/tt0092005/,movie,8.1,89,1986,"Adventure, Drama",360663,1986-08-06,Rob Reiner
+404,tt0117318,2015-05-31,2015-05-31,,The People vs. Larry Flynt,https://www.imdb.com/title/tt0117318/,movie,7.3,130,1996,"Biography, Drama",87574,1996-10-13,Milos Forman
+405,tt0462538,2015-05-31,2015-05-31,,The Simpsons Movie,https://www.imdb.com/title/tt0462538/,movie,7.3,87,2007,"Animation, Adventure, Comedy",307521,2007-07-21,David Silverman
+406,tt0108358,2015-05-31,2015-05-31,,Tombstone,https://www.imdb.com/title/tt0108358/,movie,7.8,130,1993,"Action, Biography, Drama, History, Western",125605,1993-12-25,"George P. Cosmatos, Kevin Jarre"
+407,tt0407887,2015-05-31,2015-05-31,,The Departed,https://www.imdb.com/title/tt0407887/,movie,8.5,151,2006,"Crime, Drama, Thriller",1178096,2006-09-26,Martin Scorsese
+408,tt0409459,2015-05-31,2015-05-31,,Watchmen,https://www.imdb.com/title/tt0409459/,movie,7.6,162,2009,"Action, Drama, Mystery, Sci-Fi",497703,2009-02-23,Zack Snyder
+409,tt0840361,2015-05-31,2015-05-31,,The Town,https://www.imdb.com/title/tt0840361/,movie,7.5,125,2010,"Crime, Drama, Thriller",349860,2010-09-08,Ben Affleck
+410,tt0101540,2015-05-31,2015-05-31,,Cape Fear,https://www.imdb.com/title/tt0101540/,movie,7.3,128,1991,"Crime, Thriller",172297,1991-10-06,Martin Scorsese
+411,tt0107290,2015-05-31,2015-05-31,,Jurassic Park,https://www.imdb.com/title/tt0107290/,movie,8.1,127,1993,"Action, Adventure, Sci-Fi, Thriller",859701,1993-06-09,Steven Spielberg
+412,tt0268380,2015-05-31,2015-05-31,,Ice Age,https://www.imdb.com/title/tt0268380/,movie,7.5,81,2002,"Animation, Adventure, Comedy, Family, Fantasy",438102,2002-03-12,"Chris Wedge, Carlos Saldanha"
+413,tt0109686,2015-05-31,2015-05-31,,Dumb and Dumber,https://www.imdb.com/title/tt0109686/,movie,7.3,107,1994,Comedy,351005,1994-12-06,"Peter Farrelly, Bobby Farrelly"
+414,tt0120382,2015-05-31,2015-05-31,,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.1,103,1998,"Comedy, Drama, Sci-Fi",928595,1998-06-01,Peter Weir
+415,tt0125664,2015-05-31,2015-05-31,,Man on the Moon,https://www.imdb.com/title/tt0125664/,movie,7.4,118,1999,"Biography, Comedy, Drama",123494,1999-12-07,Milos Forman
+416,tt0139654,2015-05-31,2015-05-31,,Training Day,https://www.imdb.com/title/tt0139654/,movie,7.7,122,2001,"Crime, Drama, Thriller",386751,2001-09-02,Antoine Fuqua
+417,tt0328107,2015-05-31,2015-05-31,,Man on Fire,https://www.imdb.com/title/tt0328107/,movie,7.7,146,2004,"Action, Crime, Drama, Thriller",327251,2004-04-18,Tony Scott
+418,tt0454848,2015-05-31,2015-05-31,,Inside Man,https://www.imdb.com/title/tt0454848/,movie,7.6,129,2006,"Crime, Drama, Mystery, Thriller",335444,2006-03-16,Spike Lee
+419,tt0401792,2015-05-31,2015-05-31,,Sin City,https://www.imdb.com/title/tt0401792/,movie,8.0,124,2005,"Crime, Thriller",736609,2005-03-28,"Frank Miller, Quentin Tarantino, Robert Rodriguez"
+420,tt0162222,2015-05-31,2015-05-31,,Cast Away,https://www.imdb.com/title/tt0162222/,movie,7.8,143,2000,"Adventure, Drama, Romance",518595,2000-12-07,Robert Zemeckis
+421,tt0265666,2015-05-31,2015-05-31,,The Royal Tenenbaums,https://www.imdb.com/title/tt0265666/,movie,7.6,110,2001,"Comedy, Drama",264735,2001-10-05,Wes Anderson
+422,tt0388795,2015-05-31,2015-05-31,,Brokeback Mountain,https://www.imdb.com/title/tt0388795/,movie,7.7,134,2005,"Drama, Romance",320790,2005-09-02,Ang Lee
+423,tt1263670,2015-05-31,2015-05-31,,Crazy Heart,https://www.imdb.com/title/tt1263670/,movie,7.2,112,2009,"Drama, Music, Romance",83706,2009-12-06,Scott Cooper
+424,tt0829482,2015-05-31,2015-05-31,,Superbad,https://www.imdb.com/title/tt0829482/,movie,7.6,113,2007,Comedy,517132,2007-08-17,Greg Mottola
+425,tt1285016,2015-05-31,2015-05-31,,The Social Network,https://www.imdb.com/title/tt1285016/,movie,7.7,120,2010,"Biography, Drama",619049,2010-09-24,David Fincher
+426,tt0103873,2015-05-31,2015-05-31,,Braindead,https://www.imdb.com/title/tt0103873/,movie,7.5,104,1992,"Comedy, Fantasy, Horror, Thriller",91004,1992-06-04,Peter Jackson
+427,tt0365748,2015-05-31,2015-05-31,,Shaun of the Dead,https://www.imdb.com/title/tt0365748/,movie,7.9,99,2004,"Comedy, Horror",508867,2004-03-29,Edgar Wright
+428,tt0363547,2015-05-31,2015-05-31,,Dawn of the Dead,https://www.imdb.com/title/tt0363547/,movie,7.3,101,2004,"Action, Horror",233006,2004-03-10,Zack Snyder
+429,tt0029583,2015-05-31,2015-05-31,,Snow White and the Seven Dwarfs,https://www.imdb.com/title/tt0029583/,movie,7.6,83,1937,"Animation, Family, Fantasy, Musical, Romance",180013,1937-12-21,"William Cottrell, Perce Pearce, Ben Sharpsteen, David Hand, Wilfred Jackson, Larry Morey"
+430,tt0112573,2015-05-31,2015-05-31,,Braveheart,https://www.imdb.com/title/tt0112573/,movie,8.3,178,1995,"Biography, Drama, History, War",952518,1995-05-18,Mel Gibson
+431,tt0032910,2015-05-31,2015-05-31,,Pinocchio,https://www.imdb.com/title/tt0032910/,movie,7.4,88,1940,"Animation, Comedy, Family, Fantasy, Musical",130045,1940-02-07,"Jack Kinney, Ben Sharpsteen, Hamilton Luske, Wilfred Jackson, T. Hee, Bill Roberts, Norman Ferguson"
+432,tt0032455,2015-05-31,2015-05-31,,Fantasia,https://www.imdb.com/title/tt0032455/,movie,7.7,125,1940,"Animation, Family, Fantasy, Music, Musical",87942,1940-11-13,"Ben Sharpsteen, Samuel Armstrong, Paul Satterfield, Hamilton Luske, James Algar, Jim Handley, David Hand, Ford Beebe Jr., Wilfred Jackson, T. Hee, Bill Roberts, Norman Ferguson"
+433,tt0033563,2015-05-31,2015-05-31,,Dumbo,https://www.imdb.com/title/tt0033563/,movie,7.2,64,1941,"Animation, Drama, Family, Musical",118717,1941-10-23,"Jack Kinney, Ben Sharpsteen, Samuel Armstrong, John Elliotte, Wilfred Jackson, Bill Roberts, Norman Ferguson"
+434,tt0034492,2015-05-31,2015-05-31,,Bambi,https://www.imdb.com/title/tt0034492/,movie,7.3,70,1942,"Animation, Drama, Family",130231,1942-08-08,"Samuel Armstrong, Paul Satterfield, James Algar, Graham Heid, Clyde Geronimi, David Hand, Arthur Davis, Bill Roberts, Norman Wright"
+435,tt0042332,2015-05-31,2015-05-31,,Cinderella,https://www.imdb.com/title/tt0042332/,movie,7.3,74,1950,"Animation, Family, Fantasy, Musical, Romance",144559,1950-02-15,"Clyde Geronimi, Hamilton Luske, Wilfred Jackson"
+436,tt0043274,2015-05-31,2015-05-31,,Alice in Wonderland,https://www.imdb.com/title/tt0043274/,movie,7.4,75,1951,"Animation, Adventure, Family, Fantasy, Musical",127925,1951-07-26,"Clyde Geronimi, Jack Kinney, Wilfred Jackson, Hamilton Luske"
+437,tt0046183,2015-05-31,2015-05-31,,Peter Pan,https://www.imdb.com/title/tt0046183/,movie,7.3,77,1953,"Animation, Adventure, Family, Fantasy, Musical",125390,1953-02-05,"Clyde Geronimi, Jack Kinney, Wilfred Jackson, Hamilton Luske"
+438,tt0048280,2015-05-31,2015-05-31,,Lady and the Tramp,https://www.imdb.com/title/tt0048280/,movie,7.3,76,1955,"Animation, Adventure, Comedy, Drama, Family, Romance",121777,1955-06-16,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske, Jack Cutting"
+439,tt0050798,2015-05-31,2015-05-31,,Old Yeller,https://www.imdb.com/title/tt0050798/,movie,7.3,83,1957,"Adventure, Drama, Family, Western",11768,1957-12-25,Robert Stevenson
+440,tt0053285,2015-05-31,2015-05-31,,Sleeping Beauty,https://www.imdb.com/title/tt0053285/,movie,7.2,75,1959,"Animation, Family, Fantasy, Musical, Romance",134335,1959-01-29,"Clyde Geronimi, Les Clark, Wolfgang Reitherman, Hamilton Luske"
+441,tt0058331,2015-05-31,2015-05-31,,Mary Poppins,https://www.imdb.com/title/tt0058331/,movie,7.8,139,1964,"Comedy, Family, Fantasy, Musical",156488,1964-08-27,Robert Stevenson
+442,tt0061852,2015-05-31,2015-05-31,,The Jungle Book,https://www.imdb.com/title/tt0061852/,movie,7.6,78,1967,"Animation, Adventure, Family, Musical",164889,1967-10-18,Wolfgang Reitherman
+443,tt0070608,2015-05-31,2015-05-31,,Robin Hood,https://www.imdb.com/title/tt0070608/,movie,7.6,83,1973,"Animation, Adventure, Comedy, Family, Musical, Romance",114683,1973-11-08,"Wolfgang Reitherman, David Hand"
+444,tt0097757,2015-05-31,2015-05-31,,The Little Mermaid,https://www.imdb.com/title/tt0097757/,movie,7.6,83,1989,"Animation, Family, Fantasy, Musical, Romance",235605,1989-11-13,"Ron Clements, John Musker"
+445,tt0101414,2015-05-31,2015-05-31,,Beauty and the Beast,https://www.imdb.com/title/tt0101414/,movie,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",414808,1991-09-29,"Gary Trousdale, Kirk Wise"
+446,tt0103639,2015-05-31,2015-05-31,,Aladdin,https://www.imdb.com/title/tt0103639/,movie,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",371252,1992-11-08,"Ron Clements, John Musker"
+447,tt0104940,2015-05-31,2015-05-31,,The Muppet Christmas Carol,https://www.imdb.com/title/tt0104940/,movie,7.7,85,1992,"Comedy, Drama, Family, Fantasy, Musical",47887,1992-12-06,Brian Henson
+448,tt0110357,2015-05-31,2015-05-31,,The Lion King,https://www.imdb.com/title/tt0110357/,movie,8.5,88,1994,"Animation, Adventure, Drama, Family, Musical",932578,1994-06-12,"Rob Minkoff, Roger Allers"
+449,tt0114709,2015-05-31,2015-05-31,,Toy Story,https://www.imdb.com/title/tt0114709/,movie,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",878748,1995-11-19,John Lasseter
+450,tt0120363,2015-05-31,2015-05-31,,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",522628,1999-11-13,"John Lasseter, Ash Brannon, Lee Unkrich"
+451,tt0120762,2015-05-31,2015-05-31,,Mulan,https://www.imdb.com/title/tt0120762/,movie,7.6,88,1998,"Animation, Adventure, Family, Fantasy, Musical, War",253888,1998-06-05,"Tony Bancroft, Barry Cook"
+452,tt0120917,2015-05-31,2015-05-31,,The Emperor's New Groove,https://www.imdb.com/title/tt0120917/,movie,7.4,78,2000,"Animation, Adventure, Comedy, Family, Fantasy",178491,2000-12-10,Mark Dindal
+453,tt0198781,2015-05-31,2015-05-31,,"Monsters, Inc.",https://www.imdb.com/title/tt0198781/,movie,8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",807696,2001-10-28,"Pete Docter, David Silverman, Lee Unkrich"
+454,tt0266543,2015-05-31,2015-05-31,,Finding Nemo,https://www.imdb.com/title/tt0266543/,movie,8.1,100,2003,"Animation, Adventure, Comedy, Family",941271,2003-05-18,"Andrew Stanton, Lee Unkrich"
+455,tt0317705,2015-05-31,2015-05-31,,The Incredibles,https://www.imdb.com/title/tt0317705/,movie,8.0,115,2004,"Animation, Action, Adventure, Family",651445,2004-10-27,Brad Bird
+456,tt0382932,2015-05-31,2015-05-31,,Ratatouille,https://www.imdb.com/title/tt0382932/,movie,8.0,111,2007,"Animation, Adventure, Comedy, Family, Fantasy",634615,2007-06-22,"Brad Bird, Jan Pinkava"
+457,tt0910970,2015-05-31,2015-05-31,,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",989835,2008-06-21,Andrew Stanton
+458,tt1049413,2015-05-31,2015-05-31,,Up,https://www.imdb.com/title/tt1049413/,movie,8.2,96,2009,"Animation, Adventure, Comedy, Family",925966,2009-05-13,"Pete Docter, Bob Peterson"
+459,tt1205489,2015-05-31,2015-05-31,,Gran Torino,https://www.imdb.com/title/tt1205489/,movie,8.1,116,2008,Drama,715615,2008-12-09,Clint Eastwood
+460,tt0067992,2015-05-31,2015-05-31,,Willy Wonka & the Chocolate Factory,https://www.imdb.com/title/tt0067992/,movie,7.8,100,1971,"Family, Fantasy, Musical",176967,1971-06-28,Mel Stuart
+461,tt0059742,2015-05-31,2015-05-31,,The Sound of Music,https://www.imdb.com/title/tt0059742/,movie,8.0,172,1965,"Biography, Drama, Family, Musical, Romance",201391,1965-03-02,Robert Wise
+462,tt0171804,2015-05-31,2015-05-31,,Boys Don't Cry,https://www.imdb.com/title/tt0171804/,movie,7.5,118,1999,"Biography, Crime, Drama, Romance",91942,1999-09-02,Kimberly Peirce
+463,tt0032138,2015-05-31,2015-05-31,,The Wizard of Oz,https://www.imdb.com/title/tt0032138/,movie,8.0,102,1939,"Adventure, Family, Fantasy, Musical",369507,1939-08-10,"Mervyn LeRoy, King Vidor, George Cukor, Norman Taurog, Victor Fleming, Richard Thorpe"
+464,tt1136608,2015-05-31,2015-05-31,,District 9,https://www.imdb.com/title/tt1136608/,movie,7.9,112,2009,"Action, Sci-Fi, Thriller",635423,2009-08-13,Neill Blomkamp
+465,tt0107688,2015-05-31,2015-05-31,,The Nightmare Before Christmas,https://www.imdb.com/title/tt0107688/,movie,8.0,76,1993,"Animation, Family, Fantasy, Musical",296395,1993-10-09,Henry Selick
+466,tt0121164,2015-05-31,2015-05-31,,Corpse Bride,https://www.imdb.com/title/tt0121164/,movie,7.3,77,2005,"Animation, Drama, Family, Fantasy, Musical, Romance",243346,2005-09-07,"Tim Burton, Mike Johnson"
+467,tt0099487,2015-05-31,2015-05-31,,Edward Scissorhands,https://www.imdb.com/title/tt0099487/,movie,7.9,105,1990,"Drama, Fantasy, Romance",444164,1990-12-06,Tim Burton
+468,tt0095489,2015-05-31,2015-05-31,,The Land Before Time,https://www.imdb.com/title/tt0095489/,movie,7.4,69,1988,"Animation, Adventure, Drama, Family",79425,1988-11-18,Don Bluth
+469,tt0414993,2015-05-31,2015-05-31,,The Fountain,https://www.imdb.com/title/tt0414993/,movie,7.2,97,2006,"Drama, Mystery, Romance, Sci-Fi",227119,2006-09-04,Darren Aronofsky
+470,tt0096438,2015-05-31,2015-05-31,,Who Framed Roger Rabbit,https://www.imdb.com/title/tt0096438/,movie,7.7,104,1988,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",180806,1988-06-21,Robert Zemeckis
+471,tt0449059,2015-05-31,2015-05-31,,Little Miss Sunshine,https://www.imdb.com/title/tt0449059/,movie,7.8,101,2006,"Comedy, Drama",436957,2006-01-20,"Jonathan Dayton, Valerie Faris"
+472,tt0133189,2015-05-31,2015-05-31,,SLC Punk!,https://www.imdb.com/title/tt0133189/,movie,7.5,97,1998,"Comedy, Drama, Music, Romance",25722,1998-09-24,James Merendino
+473,tt0317248,2015-05-31,2015-05-31,,Cidade de Deus,https://www.imdb.com/title/tt0317248/,movie,8.6,130,2002,"Crime, Drama",694312,2002-05-18,"Kátia Lund, Fernando Meirelles"
+474,tt1130884,2015-05-31,2015-05-31,,Shutter Island,https://www.imdb.com/title/tt1130884/,movie,8.2,138,2010,"Mystery, Thriller",1116983,2010-02-13,Martin Scorsese
+475,tt1276104,2015-05-31,2015-05-31,,Looper,https://www.imdb.com/title/tt1276104/,movie,7.4,113,2012,"Action, Drama, Sci-Fi, Thriller",531568,2012-09-06,Rian Johnson
+476,tt0090756,2015-05-31,2015-05-31,,Blue Velvet,https://www.imdb.com/title/tt0090756/,movie,7.7,120,1986,"Drama, Mystery, Thriller",179561,1986-08-30,David Lynch
+477,tt1772341,2015-05-31,2015-05-31,,Wreck-It Ralph,https://www.imdb.com/title/tt1772341/,movie,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy",376711,2012-11-01,Rich Moore
+478,tt0435761,2015-05-31,2015-05-31,,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",750546,2010-06-12,Lee Unkrich
+479,tt0964517,2015-05-31,2015-05-31,,The Fighter,https://www.imdb.com/title/tt0964517/,movie,7.8,116,2010,"Biography, Drama, Sport",338092,2010-12-06,David O. Russell
+480,tt0824747,2015-05-31,2015-05-31,,Changeling,https://www.imdb.com/title/tt0824747/,movie,7.7,141,2008,"Biography, Crime, Drama, History, Mystery, Thriller",237697,2008-05-20,Clint Eastwood
+481,tt0097493,2015-05-31,2015-05-31,,Heathers,https://www.imdb.com/title/tt0097493/,movie,7.2,103,1989,"Comedy, Crime",87838,1989-01-21,Michael Lehmann
+482,tt0758758,2015-05-31,2015-05-31,,Into the Wild,https://www.imdb.com/title/tt0758758/,movie,8.1,148,2007,"Adventure, Biography, Drama",567765,2007-09-01,Sean Penn
+483,tt0805564,2015-05-31,2015-05-31,,Lars and the Real Girl,https://www.imdb.com/title/tt0805564/,movie,7.3,106,2007,"Comedy, Drama, Romance",137520,2007-09-16,Craig Gillespie
+484,tt0802948,2015-05-31,2015-05-31,,An American Crime,https://www.imdb.com/title/tt0802948/,movie,7.3,98,2007,"Biography, Crime, Drama, Horror",32195,2007-01-19,Tommy O'Haver
+485,tt0499549,2015-05-31,2015-05-31,,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.8,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1112116,2009-12-10,James Cameron
+486,tt0327056,2015-05-31,2015-05-31,,Mystic River,https://www.imdb.com/title/tt0327056/,movie,7.9,138,2003,"Crime, Drama, Mystery, Thriller",416311,2003-05-23,Clint Eastwood
+487,tt0463998,2015-05-31,2015-05-31,,Freedom Writers,https://www.imdb.com/title/tt0463998/,movie,7.5,123,2007,"Biography, Crime, Drama",69367,2007-01-05,Richard LaGravenese
+488,tt0100157,2015-05-31,2015-05-31,,Misery,https://www.imdb.com/title/tt0100157/,movie,7.8,107,1990,"Drama, Thriller",182882,1990-11-29,Rob Reiner
+489,tt0780504,2015-05-31,2015-05-31,,Drive,https://www.imdb.com/title/tt0780504/,movie,7.8,100,2011,"Crime, Drama",566583,2011-05-20,Nicolas Winding Refn
+490,tt0453562,2015-05-31,2015-05-31,,42,https://www.imdb.com/title/tt0453562/,movie,7.5,128,2013,"Biography, Drama, Sport",85666,2013-04-09,Brian Helgeland
+491,tt1907668,2015-05-31,2015-05-31,,Flight,https://www.imdb.com/title/tt1907668/,movie,7.3,138,2012,"Drama, Thriller",323546,2012-10-14,Robert Zemeckis
+492,tt0114369,2015-05-31,2015-05-31,,Se7en,https://www.imdb.com/title/tt0114369/,movie,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1429022,1995-09-15,David Fincher
+493,tt0365376,2015-05-31,2015-05-31,,"Janghwa, Hongryeon",https://www.imdb.com/title/tt0365376/,movie,7.2,114,2003,"Drama, Horror, Mystery, Thriller",56169,2003-06-13,Jee-woon Kim
+494,tt1457767,2015-05-31,2015-05-31,,The Conjuring,https://www.imdb.com/title/tt1457767/,movie,7.5,112,2013,"Horror, Mystery, Thriller",438742,2013-06-08,James Wan
+495,tt0104348,2015-05-31,2015-05-31,,Glengarry Glen Ross,https://www.imdb.com/title/tt0104348/,movie,7.7,100,1992,"Crime, Drama, Mystery",95152,1992-08-30,James Foley
+496,tt1465522,2015-05-31,2015-05-31,,Tucker and Dale vs Evil,https://www.imdb.com/title/tt1465522/,movie,7.5,89,2010,"Comedy, Horror",164578,2010-01-22,Eli Craig
+497,tt0086960,2015-05-31,2015-05-31,,Beverly Hills Cop,https://www.imdb.com/title/tt0086960/,movie,7.3,105,1984,"Action, Comedy, Crime, Thriller",161965,1984-12-01,Martin Brest
+498,tt0086465,2015-05-31,2015-05-31,,Trading Places,https://www.imdb.com/title/tt0086465/,movie,7.5,116,1983,Comedy,134089,1983-06-07,John Landis
+499,tt0443706,2015-05-31,2015-05-31,,Zodiac,https://www.imdb.com/title/tt0443706/,movie,7.7,157,2007,"Crime, Drama, Mystery, Thriller",458413,2007-02-28,David Fincher
+500,tt1535109,2015-05-31,2015-05-31,,Captain Phillips,https://www.imdb.com/title/tt1535109/,movie,7.8,134,2013,"Adventure, Biography, Crime, Drama, Thriller",417453,2013-09-27,Paul Greengrass
+501,tt0993846,2015-05-31,2015-05-31,,The Wolf of Wall Street,https://www.imdb.com/title/tt0993846/,movie,8.2,180,2013,"Biography, Crime, Drama",1167373,2013-12-09,Martin Scorsese
+502,tt1454468,2015-05-31,2015-05-31,,Gravity,https://www.imdb.com/title/tt1454468/,movie,7.7,91,2013,"Drama, Sci-Fi, Thriller",764035,2013-08-28,Alfonso Cuarón

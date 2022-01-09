@@ -187,5 +187,4 @@ Entertainment_domain_spell_correction.py is an autocorrect program file to corre
 3. networkx
 4. **Research Paper** :  Knowledge Graphs: An Information Retrieval Perspective
 
-
-
+# Thank You

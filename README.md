@@ -27,7 +27,7 @@ This project focuses on end-to-end utilization of knowledge graphs and semantics
 
 # Algorithms/Approaches Used
 
-Individual Breakdown for each member.
+Individual Breakdown for each member of the team.
 
 
 
